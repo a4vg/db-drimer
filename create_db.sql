@@ -56,7 +56,7 @@ CREATE TABLE Almohada (
   FOREIGN KEY (producto_id) REFERENCES Producto
 );
 
-CREATE TABLE Persona Juridica (
+CREATE TABLE PersonaJuridica (
   dni varchar (8),
   PRIMARY KEY (dni),
   FOREIGN KEY (dni) REFERENCES Cliente
