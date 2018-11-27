@@ -1,1001 +1,501 @@
-nombre, direccion,ruc,representante_dni,telefono,,,,
-"Albertson's, Inc.",Elah Pass 306,10193937868,20362733,993994514,,,,
-Baxter International Inc.,Kelo Avenue 445,20173114113,92813372,4517916,,,,
-National Semiconductor Corporation,Neru River 559,20591232934,99606006,3556625,,,,
-"Avon Products, Inc.",Zeca Street 527,20428488614,81257061,952799377,,,,
-Cooper Cameron Corp.,Mejuh Heights 192,10611739211,95539522,972294373,,,,
-"Arrow Electronics, Inc.",Bujaha Place 851,10946817793,89719232,983895985,,,,
-Manor Care Inc.,Kilzov Point 127,10124226756,36741205,923224964,,,,
-National Fuel Gas Company,Rosre View 246,10336286111,05721527,3367893,,,,
-International Business Machines Corp.,Omza Mill 090,20142377355,30984708,3358211,,,,
-"BJ's Wholesale Club, Inc.",Vuje Key 153,10947718965,95843255,2461951,,,,
-Lucent Technologies Inc.,Vefegi Plaza 446,20874979821,68677409,3116484,,,,
-"Avon Products, Inc.",Wara Path 327,10749669668,16742674,998966718,,,,
-Mandalay Resort Group,Zeznas Turnpike 849,10384533458,91271580,4634734,,,,
-"Pep Boys Manny, Moe & Jack",Afidas Manor 502,20949245194,54406882,998488261,,,,
-BJ Services Company,Ruov Point 772,10862698164,65934176,4261832,,,,
-Standard Pacific Corp.,Sapir Parkway 514,20324678877,68512430,2958151,,,,
-Foot Locker Inc,Cosa Way 461,10322617623,72106731,3592193,,,,
-United Parcel Service Inc,Jucoh Pike 488,10251427813,81011732,2794465,,,,
-Nordstrom Inc,Abaaji Highway 321,20141186135,61569878,5936226,,,,
-TRW Inc,Uzolu Street 762,10542636167,56995465,2762444,,,,
-Equitable Resources Inc.,Sudhel Key 483,20489626726,42794553,944883556,,,,
-PETsMART Inc,Kocima Point 457,20294225981,97861544,5452942,,,,
-AmSouth Bancorp.,Ciphod Center 383,20675626637,24386478,2763387,,,,
-State Street Corp.,Wedugi Way 970,20873597589,14059738,924341269,,,,
-Lehman Brothers Holdings Inc.,Ifiti Center 066,10313573988,57981980,966737241,,,,
-Mariner Health Care Inc.,Cozuse Center 224,10877266146,95870669,945337761,,,,
-Pactiv Corp,Koparu Trail 259,10226923289,96995726,5256134,,,,
-General Dynamics Corporation,Rako Mill 545,10176889215,64735861,996722182,,,,
-Household International Corp.,Sogeg Path 722,20312337792,79786277,6594112,,,,
-Kemet Corp.,Vanzu Manor 131,20312728622,76654856,6848788,,,,
-Clear Channel Communications Inc.,Gadu Manor 620,10246129983,69804008,4836847,,,,
-Humana Inc.,Ciluce Square 745,20221517986,03063103,995163921,,,,
-Carpenter Technology Corp.,Zuci Road 335,10379951534,78171304,915627617,,,,
-United Auto Group Inc,Vedu Loop 274,10326256539,54909367,929146498,,,,
-Southwest Airlines Co,Lito Terrace 423,10769988893,82457579,936791199,,,,
-UGI Corporation,Rejope Boulevard 882,20973112365,98544035,4363548,,,,
-Sun Microsystems Inc.,Cuic Pike 293,10685878984,32785529,5927127,,,,
-MDU Resources Group Inc.,Hisuj Heights 620,20363516585,04554962,2519683,,,,
-Value City Department Stores Inc,Pucru Terrace 314,20192399423,73889021,983394457,,,,
-Tecumseh Products Company,Taztog Highway 133,10523632214,43883805,918539884,,,,
-Kimberly-Clark Corporation,Utoto Lane 128,20838887552,22316492,944389477,,,,
-"American Electric Power Company, Inc.",Nujti Square 569,20345396829,31932274,958713686,,,,
-Scholastic Corp,Dari Trail 644,10629452368,98931778,6493989,,,,
-Goodrich Corporation,Evfa Terrace 958,20764631587,26321062,929927432,,,,
-Consolidated Edison Inc.,Leseb Place 728,20964854457,32453039,994353219,,,,
-Cabot Corp,Amevu Avenue 706,10297619722,77666483,954234311,,,,
-Medtronic Inc.,Kejo Turnpike 280,20951773613,59913279,989771958,,,,
-Triad Hospitals Inc,Uzijuk Avenue 251,10869839399,98833229,998856664,,,,
-Eaton Corporation,Pagom Mill 585,10344111429,84885394,2622436,,,,
-Corn Products International Inc.,Etsis Place 960,10647548645,56832510,4646382,,,,
-Jones Apparel Group Inc.,Evima Lane 533,10729623315,69116927,5676214,,,,
-General Cable Corporation,Hashaj Pass 705,10245887664,29201041,929723276,,,,
-Greif Bros. Corporation,Jujupo Turnpike 831,20887381926,42842139,4121767,,,,
-Kohl's Corp.,Gired River 341,10695487451,16981772,4786667,,,,
-HCA Inc.,Boha Key 002,20531851465,66721691,2951428,,,,
-Mail-Well Inc.,Egeig Ridge 175,10833452854,50424477,954651997,,,,
-Estee Lauder Companies Inc.,Wofipu Court 434,10728866692,59122062,4331939,,,,
-Cincinnati Financial Corp.,Homu Way 228,20333335361,82025773,966333628,,,,
-Mellon Financial Corporation,Pife Mill 143,20532657438,13643552,6331368,,,,
-Genzyme Corporation,Osiis Key 499,20439882279,08634306,947579821,,,,
-Newell Rubbermaid Inc,Awvel Manor 399,10878283965,41334578,945833218,,,,
-Zions Bancorporation,Roif Road 735,10777322455,45964062,5241722,,,,
-"Big Lots, Inc.",Pepjiv Avenue 447,20636614821,59490672,6994976,,,,
-Tellabs Inc.,Weovi Road 692,10123814681,52127903,4578913,,,,
-Worthington Industries Inc,Cilim River 081,10644391718,22794153,929654969,,,,
-Williams Companies Inc,Hafobu Way 203,10536512313,21364201,946996949,,,,
-Target Corp.,Ibaice Street 344,20345522145,41493948,6367318,,,,
-DPL Inc.,Supoz Turnpike 644,10287396559,24345074,5476591,,,,
-CSX Corp.,Gial Glen 915,10263923276,38857488,3223885,,,,
-Lands' End Inc.,Akejab Trail 523,20752553181,79233001,5372343,,,,
-Unisource Energy Corp,Ebnew Pike 251,20368672758,78999689,931737844,,,,
-Pioneer-Standard Electronics Inc.,Detul Ridge 472,10598173455,43904381,937273114,,,,
-Phelps Dodge Corp.,Togro Circle 223,10636245781,51555682,964994265,,,,
-Fortune Brands Inc.,Ratu River 271,10184336687,63825738,942529317,,,,
-Precision Castparts Corp,Neofu Path 159,20554495967,91259529,959945258,,,,
-AMERCO,Avener Plaza 081,20765483913,02100042,5399747,,,,
-Unified Western Grocers Inc,Agpot View 096,10324936338,31830598,942791631,,,,
-North Fork Bancorporation Inc,Jigub View 962,20463169947,91346827,954835745,,,,
-Whirlpool Corporation,Pugdez Manor 878,10292563637,58840331,987863946,,,,
-Apartment Investment and Management Company,Razvez Pike 215,20691594835,83646308,2393327,,,,
-"AutoZone, Inc.",Kana Extension 984,20258216341,04595889,972372923,,,,
-Tenneco Automotive Inc.,Sihabo Terrace 849,20264274534,82905253,945436756,,,,
-PNC Financial Services Group Inc.,Upak Key 733,20725781387,47786912,5559824,,,,
-Nucor Corp,Dugeze Pike 856,20746182428,11253594,962379951,,,,
-Cooper Tire & Rubber Co.,Foob Pass 436,20561771961,83716714,4175827,,,,
-Expeditors International of Washington Inc.,Ofemo Street 217,20563869717,59026449,921518642,,,,
-EMC Corporation,Tofro Highway 664,20765488391,14003990,5316654,,,,
-USA Interactive,Kokot Street 126,20291758496,88326552,982524225,,,,
-Consolidated Edison Inc.,Imazaw Lane 925,20174815339,93686581,6466985,,,,
-Polo Ralph Lauren Corp,Gorsav Mill 988,20642299125,58908293,995697553,,,,
-"Cadence Design Systems, Inc.",Ahso Center 438,20466572417,94624038,989149644,,,,
-Temple-Inland Inc,Ofona Street 383,20853738518,49641076,2756934,,,,
-Cabot Corp,Piiw Drive 375,20767664646,36852459,977945546,,,,
-Novellus Systems Inc,Pakaz View 821,10256484279,78685379,944929889,,,,
-Scholastic Corp,Vagi Center 952,20813812372,01712896,983478381,,,,
-OM Group Inc,Sewa Way 798,10485333822,86575471,5727574,,,,
-Regions Financial Corp.,Hewef Turnpike 180,10853451117,72756665,6398827,,,,
-Lucent Technologies Inc.,Vaeb Square 323,20144829394,61863743,932287722,,,,
-Fleetwood Enterprises Inc.,Sutum Square 232,20196113135,93174745,993637252,,,,
-Deluxe Corporation,Wamih Terrace 398,20241697329,30041838,3911149,,,,
-Outback Steakhouse Inc.,Lojle View 493,10684191286,73847681,921188692,,,,
-Astoria Financial Corporation,Piba Heights 968,20732351549,94461096,961242665,,,,
-Cytec Industries Inc.,Buki Avenue 919,20434789716,97262294,6355427,,,,
-National Service Industries Inc,Gogvu View 603,20621263998,22679114,965869486,,,,
-Value City Department Stores Inc,Enota Trail 522,10543587116,53386032,911328872,,,,
-Raytheon Company,Kektij Pike 873,20699814882,37341244,993189533,,,,
-SLM Corporation,Wuwah Highway 089,20625313242,15573911,4697397,,,,
-AMERCO,Puffet Grove 215,20917842684,10271561,4546446,,,,
-Rockwell Automation Inc,Iwoih Ridge 399,10194168721,25127053,936132569,,,,
-"Pep Boys Manny, Moe & Jack",Viti Circle 627,10641696446,70310085,6495186,,,,
-National Rural Utilities Cooperative Finance Corporation,Safev Junction 729,20269976261,64610554,963478889,,,,
-Dollar General Corporation,Fihas Square 553,10972968741,15071456,989422848,,,,
-The Men's Wearhouse Inc.,Susi Center 697,20421721576,47887300,5179161,,,,
-Scientific-Atlanta Inc,Huhin Mill 654,10649473841,20439220,6741577,,,,
-GenCorp Inc.,Virpa Terrace 133,20917392991,85447290,4171882,,,,
-Costco Wholesale Corp.,Tapcem Place 350,10143516856,98435149,2729492,,,,
-"Dreyer's Grand Ice Cream, Inc.",Kagwo View 458,10133165763,95156199,929692771,,,,
-PepsiCo Inc.,Fiep Ridge 674,20959868132,43543557,914827534,,,,
-Conseco Inc.,Nevac Ridge 336,10794862941,01167903,923768653,,,,
-"Avon Products, Inc.",Bidi Road 464,20721911961,30650068,5442116,,,,
-Primedia Inc,Ihukew Plaza 256,20547293752,17372400,4527219,,,,
-General Cable Corporation,Bultu Boulevard 797,10116472472,89807831,926188586,,,,
-Weis Markets Inc.,Lumu Highway 626,10725378491,23409465,995868751,,,,
-Maxim Integrated Products Inc.,Kihwuc Key 588,20956957272,72546278,958939215,,,,
-Gemstar-TV Guide International Inc.,Zozig Park 042,20898186396,54774834,5184952,,,,
-"Alaska Air Group, Inc.",Naviw Boulevard 243,20449957969,66272936,916333487,,,,
-CellStar Corp.,Unofa Square 886,10423156693,59920468,4636771,,,,
-Rock-Tenn Co,Tuvoj Trail 531,20577556814,34772771,2553285,,,,
-Georgia Gulf Corporation,Enir Turnpike 357,20988927983,15613033,5323364,,,,
-Comverse Technology Inc.,Immem Path 724,10258498959,22097799,925832299,,,,
-Dell Computer Corporation,Umcun Center 748,10575263584,37490067,917886672,,,,
-SunTrust Banks Inc,Zukze Key 786,10843844994,89823824,5386471,,,,
-Federal Express Corp.,Mawar Parkway 956,20337373746,89853192,6296546,,,,
-Energizer Holdings Inc.,Kupuv Pass 240,10894857121,41250712,986866837,,,,
-"Citigroup, Inc",Nejhu Heights 307,10623917879,26831796,4572191,,,,
-MeadWestvaco Corporation,Sillun Lane 072,10248858633,96585023,921744219,,,,
-Caterpillar Inc.,Okreb Pass 233,20467877263,96702952,993551427,,,,
-CNF Inc.,Ullal Drive 210,20292229734,83218541,982342526,,,,
-Rockwell Automation Inc,Bafad Drive 541,10171771487,75447562,6112334,,,,
-IKON Office Solutions Inc.,Siles River 782,10629326937,45832852,3313612,,,,
-Southern Union Company,Sopu Place 471,20259451917,03681169,6543327,,,,
-Exide Technologies,Zewdak Pike 053,10516122878,88889444,994283228,,,,
-Casey's General Stores Inc.,Gutu Ridge 386,20262466482,62341116,3712187,,,,
-Nvidia Corp,Efovuj Court 063,20494344626,28716630,988321482,,,,
-Charter Communications Inc.,Lukes Square 299,20114313963,33732860,976973968,,,,
-Carlisle Cos. Inc.,Hicga Extension 432,10137484213,82346705,957972624,,,,
-Popular Inc,Akuni Path 661,20761527981,18642193,4132198,,,,
-Flowers Foods Inc.,Pejpon Loop 046,10381871447,92496558,2672913,,,,
-Cardinal Health Inc.,Bapfan View 886,10293526979,81908691,983816222,,,,
-The Men's Wearhouse Inc.,Onne Plaza 264,20957799515,91390968,993118965,,,,
-Integrated Electrical Services Inc.,Wupapu Junction 877,10131359163,70254189,6999466,,,,
-"Best Buy Co., Inc.",Zisew Junction 208,10797487593,97240490,2914413,,,,
-Golden West Financial Corporation,Azoki View 620,20674946789,78704702,999148346,,,,
-The Lubrizol Corporation,Donud Mill 681,20686289473,13441511,995147268,,,,
-Sears Roebuck & Co,Novcod Loop 578,10573315424,29163103,2518682,,,,
-Kohl's Corp.,Nomem Plaza 821,10199761775,36695255,988273336,,,,
-Stilwell Financial Inc,Jeho Place 380,10688459294,49813378,3259453,,,,
-"Advance Auto Parts, Inc.",Imrod Center 465,10476738485,24284271,5677319,,,,
-Nabors Industries Inc,Wupsig Circle 554,10632174175,60792939,978221726,,,,
-GreenPoint Financial Corp.,Cafduc Turnpike 091,10466456399,09930577,976563355,,,,
-FirstEnergy Corp.,Turo Trail 733,10835724478,50203477,979466765,,,,
-Questar Corp,Opso Pass 430,10968364146,03073302,3218153,,,,
-Yum Brands Inc.,Feot Turnpike 850,10578416888,46545096,4981644,,,,
-American Greetings Corporation,Fafah Circle 365,20549349875,85121456,6793191,,,,
-Ciena Corp.,Zeke Manor 106,10618781635,78859386,3924635,,,,
-ARAMARK Corporation,Hapono Manor 390,20741725792,26784416,943621937,,,,
-Safeco Corp,Fadaw Point 926,10756332126,92350504,929917412,,,,
-Riverwood Holding Inc.,Emsor River 812,20499894192,11666700,6857228,,,,
-Bristol-Myers Squibb Company,Ubehu Terrace 582,20566291716,07829426,929383863,,,,
-Hughes Supply Inc.,Nesoh Ridge 709,10584992948,08761173,989677269,,,,
-"The Bank of New York Company, Inc.",Tujaw Way 037,20756715231,60364623,5318674,,,,
-Casey's General Stores Inc.,Tameba Extension 003,10657317485,22392442,6691796,,,,
-NSTAR,Rowew View 774,20944821548,55176227,4623142,,,,
-MetLife Inc.,Nojzeh Parkway 597,10918275416,38060179,935178599,,,,
-First American Financial Corp.,Melco View 827,20353554124,82349085,6493411,,,,
-Nortek Inc,Jakhir Trail 462,20377819245,21300998,945579978,,,,
-Waste Management Inc,Lomo Pass 757,10992116465,55422654,6314635,,,,
-Lithia Motors Inc.,Telo Plaza 798,20277185324,20036999,5522461,,,,
-US Oncology Inc,Poka Key 889,10978287147,05890068,5617657,,,,
-Equity Office Properties Trust,Devpet Point 421,20375384515,94737191,4613146,,,,
-"The Alpine Group, Inc.",Bevmo Extension 083,20797869759,87704380,998449529,,,,
-Sara Lee Corp,Etiow Heights 114,10678253928,61901691,982277523,,,,
-Universal Health Services Inc,Benca Glen 640,10672768782,33665308,961514527,,,,
-Campbell Soup Co.,Telse Loop 450,10244354356,66566569,2677691,,,,
-SPX Corp,Kufop Mill 467,10943423173,71677481,6595398,,,,
-Winn Dixie Stores Inc,Roeri Point 523,10729347442,79354849,3177635,,,,
-Express Scripts Inc.,Vurmab Center 336,10954971647,19336811,983127296,,,,
-The LTV Corporation,Natzo Turnpike 026,20745618425,55044250,943172862,,,,
-KeyCorp,Selaj Heights 823,20337536697,94985724,4723214,,,,
-CenturyTel Inc.,Cumu Circle 290,10465557999,80684496,4991157,,,,
-Williams Companies Inc,Uktac Park 306,20722216515,59974097,6147995,,,,
-Apache Corporation,Cewmal Circle 839,10721297816,56009788,967254895,,,,
-Maxim Integrated Products Inc.,Tagu Court 303,10266638252,19479496,919129747,,,,
-Harris Corp.,Kiuc Point 077,10388547244,98497822,2652366,,,,
-North Fork Bancorporation Inc,Nupze View 599,10137858412,21117580,936289668,,,,
-Winn Dixie Stores Inc,Rofuh Center 759,20172924184,07120398,954525975,,,,
-Ryder System Inc,Mudem River 543,20273648252,13789112,3724752,,,,
-Jacobs Engineering Group Inc.,Ripit Parkway 623,10343661188,11277990,3111317,,,,
-Kindred Healthcare Inc.,Lovwi Street 876,10568485146,66650275,972988562,,,,
-Paccar Inc,Buuco Glen 608,10244145459,08559820,995681824,,,,
-Cabot Corp,Coledi Turnpike 859,10191344149,34723374,986774652,,,,
-Prudential Financial Inc.,Nago Junction 915,20362421517,43812528,4989393,,,,
-United Rentals Inc,Fotid River 172,10362188495,64373385,979335669,,,,
-TJX Companies Inc,Ziam Grove 803,20748375117,41709386,958726379,,,,
-MasTec Inc.,Orug Extension 867,10475918571,86269559,967836828,,,,
-Pharmacia Corp,Kaguv Path 773,20275726863,75866859,951741387,,,,
-Timken Company,Vejji Park 729,10982572825,00573404,992961123,,,,
-Dana Corporation,Ecbez Parkway 178,10949834262,20259365,6418486,,,,
-PNM Resources Inc,Kojcaj Drive 328,10523155248,56331231,3184842,,,,
-W.W. Grainger Inc,Poah Manor 439,10335236715,47079810,3513334,,,,
-Applera Corporation,Jeni Drive 879,10913454172,14339627,6951487,,,,
-Pulte Homes Inc,Gikdu Ridge 526,10327827683,23461580,5622535,,,,
-American Express Company,Utoci Grove 461,20293831586,42150456,952687349,,,,
-Transocean Inc,Urucus Court 243,10247672737,90066382,5499748,,,,
-Yum Brands Inc.,Gesa Terrace 354,10881373358,14497941,5557846,,,,
-UnitedHealth Group Incorporated,Zerso Extension 062,20341865175,60553103,996472935,,,,
-CNF Inc.,Zuto View 901,10858565322,82489027,6182676,,,,
-Newell Rubbermaid Inc,Ujkit Trail 098,20391663745,59970022,4445818,,,,
-Darden Restaurants Inc.,Mekaf Way 195,10248769496,35339748,5944126,,,,
-Providian Financial Corp.,Puaha Lane 869,20256158462,77478938,963383793,,,,
-Tyson Foods Inc,Subbub Manor 990,20987462765,23098472,975834716,,,,
-Fifth Third Bancorp,Awibot Grove 786,10313592196,97814560,2935395,,,,
-Calpine Corp.,Fijdot Street 367,20625726154,30965292,2587775,,,,
-MPS Group Inc.,Ejcem Park 506,20261922991,72709352,937767186,,,,
-America West Holdings Corporation,Jebcod Way 132,10657546123,22514635,5665648,,,,
-"Arch Coal, Inc.",Modwac Center 358,20181773428,33780107,2694374,,,,
-Novellus Systems Inc,Peke Mill 913,20718788714,31883902,6677947,,,,
-Equitable Resources Inc.,Hejo Square 933,10679193733,94212944,3333381,,,,
-Pepsi Bottling Group Inc.,Zukleb Path 283,10196946449,83122118,947241552,,,,
-"Peter Kiewit Sons', Inc.",Zalub Grove 560,20252892752,71560779,989884734,,,,
-Safeco Corp,Diav Glen 546,10318868638,68184498,5739983,,,,
-Michaels Stores Inc.,Sapde Court 430,20234313959,90132893,962539219,,,,
-Mohawk Industries Inc.,Datobo Ridge 459,20641222732,68799845,3186469,,,,
-Tenneco Automotive Inc.,Pewoz Mill 607,10883346173,37027383,4858731,,,,
-Ace Hardware Corporation,Anbun Square 777,10953595534,45976249,2523285,,,,
-Praxair Inc,Zudi Highway 924,10752314965,99256334,913596166,,,,
-National Semiconductor Corporation,Jeze Lane 386,20437914938,48484186,4668529,,,,
-Tower Automotive Inc.,Zitmic Manor 595,20311553996,33214214,925527665,,,,
-Tektronix Inc,Tehof Path 040,10976159556,68952113,2132241,,,,
-Burlington Northern Santa Fe Corporation,Fopre Heights 585,20831739873,36861184,918618816,,,,
-Great Lakes Chemical Corporation,Gegnil Grove 149,20277867734,93110636,4811788,,,,
-Avery Dennison Corporation,Deif Point 988,20519522745,93767019,2251669,,,,
-Lockheed Martin Corporation,Vuto Drive 727,20576937159,11324866,955893636,,,,
-Ceridian Corp.,Bofosa Avenue 641,10794845142,78766659,994611794,,,,
-Cisco Systems Inc.,Kazrov Parkway 104,20298673774,53996653,948919775,,,,
-Teradyne Inc,Ebgaz Pike 205,10328812818,71375462,2576713,,,,
-Owens & Minor Inc.,Wofir Way 310,10615915884,26061495,957622798,,,,
-Textron Inc,Mighis Pass 335,20499461952,33653965,973152536,,,,
-Murphy Oil Corporation,Ulopo Circle 408,20145467565,30512992,5185417,,,,
-Charter One Financial Inc.,Zepet Turnpike 255,20358429415,34890993,983473763,,,,
-Calpine Corp.,Nadoze Point 307,10459716293,70079562,2824798,,,,
-Lennar Corporation,Inead Trail 220,10496818789,41273547,988871386,,,,
-CMS Energy Corp.,Sicu Way 863,20247374788,93034139,917412339,,,,
-Stilwell Financial Inc,Wiebi Mill 920,20365624416,56450989,927162221,,,,
-Kennametal Inc.,Centaz Street 564,20435964383,85475379,5164877,,,,
-Boston Scientific Corporation,Sugja Glen 000,10521295686,67507119,982237437,,,,
-MGM Mirage,Upla Extension 809,10664115632,12562275,5799281,,,,
-Sun Microsystems Inc.,Etozu Loop 806,20751283893,37684580,2361566,,,,
-Werner Enterprises Inc,Jozvi Road 272,10863823547,17768994,939978137,,,,
-MGM Mirage,Ovjig Heights 796,10626158272,86486602,2412251,,,,
-"Burlington Industries, Inc.",Lazda Pike 626,20779998333,17783333,964597447,,,,
-L-3 Communications Holdings Inc.,Iwlo Park 595,20128458777,50777453,5759254,,,,
-Sun Healthcare Group Inc.,Jowo Park 374,20772572292,40167198,4591797,,,,
-Household International Corp.,Caghaj Street 078,10214347243,26709627,3956158,,,,
-Potlatch Corp,Ikoha Plaza 409,10787411616,88013224,5785523,,,,
-Echostar Communications Corporation,Nujo Place 641,10842236885,61128708,3425693,,,,
-Hughes Supply Inc.,Comzi Glen 172,10569625962,17143401,976423263,,,,
-WGL Holdings Inc,Tuvni Key 960,10985829183,84448920,962478673,,,,
-Silicon Graphics Inc,Jole Extension 108,20437632661,62869151,2193328,,,,
-General Dynamics Corporation,Meeh Path 643,10245477283,36736368,6754314,,,,
-"Barnes & Noble, Inc.",Boar Road 621,20733269775,07569049,6888717,,,,
-Diebold Incorporated,Efpe Point 345,20658697127,57626690,995418217,,,,
-Graybar Electric Company Inc.,Rogop Parkway 570,10142863884,94453387,978452244,,,,
-Bed Bath & Beyond Inc.,Zoviho View 431,20674431184,01391394,971171193,,,,
-Merrill Lynch & Co. Inc.,Hipa Turnpike 154,10958622961,18580046,2714196,,,,
-Rockwell Automation Inc,Laigo Drive 579,20163711972,05719660,3845852,,,,
-Comverse Technology Inc.,Honak Court 732,20774688946,02777034,3682882,,,,
-Parker Hannifin Corp.,Anpi Mill 183,10565446222,32977587,913259254,,,,
-MBNA Corporation,Ofura Boulevard 569,10776795854,55556011,6839425,,,,
-Cintas Corp.,Gucke Extension 328,10532128497,50913135,2569746,,,,
-Perot Systems Corp,Avte Highway 163,20864471243,00030625,965928347,,,,
-National Oilwell Inc,Vimruz River 804,20535294265,72334820,922481843,,,,
-"Armstrong Holdings, Inc.",Doid Glen 772,10651689262,30337664,3382695,,,,
-Ryder System Inc,Otoza Trail 198,20131479297,91548861,921867641,,,,
-"Brinker International, Inc.",Mensip Junction 345,20889165296,16322764,928378158,,,,
-Pioneer-Standard Electronics Inc.,Keipo Path 473,10613134459,30561846,968378432,,,,
-Gentek Inc.,Lekot Center 438,10657171448,05986408,983295815,,,,
-UGI Corporation,Tajuh Boulevard 066,20848867236,50449578,932253963,,,,
-"Analog Devices, Inc.",Imzut Loop 763,10197125576,24351002,6364579,,,,
-Dell Computer Corporation,Hinfiz Place 001,20287783966,84514978,921369458,,,,
-Deere & Company,Newe Highway 274,20817632176,52525842,954127399,,,,
-"Barnes & Noble, Inc.",Wiligu Terrace 483,10736396824,27644559,4344693,,,,
-Xcel Energy Inc,Ugibic Manor 603,10371567913,11970177,975299829,,,,
-Avery Dennison Corporation,Bacuf Center 027,10775271712,69283250,3654231,,,,
-Qualcomm Inc,Huje Heights 363,20115161474,21491350,945638288,,,,
-Delphi Corp.,Ocgun Drive 011,10188716949,79635437,6629982,,,,
-Weatherford International Inc,Weru Highway 075,20965194252,28752538,951389296,,,,
-Norfolk Southern Corporation,Lafon Path 089,10762844958,93084426,6955551,,,,
-Emerson Electric Co.,Makled Trail 995,10435352994,27245218,924733436,,,,
-Unisys Corporation,Geab View 486,10984354668,20109606,964746462,,,,
-AMC Entertainment Inc.,Matwef Grove 600,20476312575,17379270,957528156,,,,
-Kerr-McGee Corporation,Erzi Extension 503,10989389325,99108098,6796675,,,,
-La-Z-Boy Inc.,Zafaba Drive 133,10815316593,58050906,988154699,,,,
-WorldCom Inc,Jujiha Road 837,10213419444,96956738,6512753,,,,
-US Oncology Inc,Tale Center 250,20591355345,73890948,2931529,,,,
-Gap Inc.,Suzog Point 045,20385759586,32466207,915533543,,,,
-Fleetwood Enterprises Inc.,Figu Boulevard 326,10141328815,39274909,922513857,,,,
-Collins & Aikman Corp.,Luhbuk River 176,10989263271,32669835,2255984,,,,
-Wyndham International Inc,Uzujuk Key 863,20837523445,33748846,986167958,,,,
-Maxxam Inc.,Nikkac Boulevard 397,10529236871,44564565,916431318,,,,
-Provident Financial Group,Makjib Terrace 486,20279662639,97951102,4473996,,,,
-Delphi Corp.,Nevom Heights 820,10615137266,33872149,3129589,,,,
-The McGraw-Hill Companies Inc.,Redeg Court 961,20535471635,10302629,5646497,,,,
-PeopleSoft Inc,Baaha Lane 972,10377246662,92552376,972839319,,,,
-"Brown Shoe Company, Inc.",Iserip Court 181,10239742175,07779131,941893972,,,,
-Ashland Inc.,Ezha Grove 795,10333536736,98668316,937815765,,,,
-Sunoco Inc.,Fikof Place 794,10788833392,03921233,915589257,,,,
-Metaldyne Corporation,Vuzka Way 534,20956119594,14374209,5924895,,,,
-PepsiCo Inc.,Wuabu Extension 422,20556458394,67747188,996336429,,,,
-Ruddick Corp,Vazav River 530,10993798143,27864155,975666661,,,,
-Chubb Corp,Tudko Plaza 212,10772558246,35531927,2775967,,,,
-Polaris Industries Inc.,Nuebo Center 046,20353716448,04227288,3867298,,,,
-Hilton Hotels Corp.,Hesbek Pike 022,20168459122,26738851,923128973,,,,
-Kelly Services Inc.,Ogeru Circle 679,10773153614,54258774,2112391,,,,
-Ecolab Inc.,Pette Way 069,10462295863,15510616,985923561,,,,
-Burlington Resources Inc.,Tiace Way 304,10172282463,60317245,2663654,,,,
-Pharmacia Corp,Bisit Grove 903,10855348255,70413261,961912554,,,,
-The Bear Stearns Companies Inc.,Fetiwe Court 096,20194238133,45559700,967478347,,,,
-GATX Corporation,Comkez Key 854,10878942433,34369307,927946429,,,,
-WPS Resources Corporation,Tafwi Court 283,20196922251,00185742,937839574,,,,
-Bethlehem Steel Corporation,Gahek Boulevard 704,20316532477,54395133,3365917,,,,
-National Fuel Gas Company,Beltal Road 966,10162664945,60449335,935321274,,,,
-Alberto-Culver Company,Ivuwi Manor 007,20582331362,59344485,6573982,,,,
-Fluor Corp,Hovbuv Road 145,20376959774,67741305,955817955,,,,
-Bed Bath & Beyond Inc.,Etha Glen 880,20325311964,54998198,3429412,,,,
-Torchmark Corporation,Uhbo Grove 461,10541454866,21637365,2846527,,,,
-Noble Energy Inc,Hejdib Boulevard 895,10158781951,03120547,971681585,,,,
-Publix Super Markets Inc.,Mocsuh View 463,20779248754,08990525,3558612,,,,
-NTL Incorporated,Cudil Pike 257,10244789133,81809067,2521651,,,,
-Intuit Inc.,Sizwur Pike 142,10636195792,17991968,4238483,,,,
-PolyOne Corp,Jaha Pass 213,20494986338,05358746,979989843,,,,
-Hibernia Corp.,Diof Loop 327,10596971735,57976977,6772951,,,,
-Hub Group Inc.,Aweji Park 975,20241141499,36157388,957691824,,,,
-Georgia-Pacific Corporation,Loklat Pike 602,20862485315,98870401,959186239,,,,
-"Borders Group, Inc.",Tosfaf Highway 466,10591527985,16968368,3157881,,,,
-Community Health Systems Inc.,Rocuni Grove 427,20674235885,81878761,971149586,,,,
-Science Applications Intl. Inc.,Nihe Path 461,10762541643,17865149,976362975,,,,
-Metris Companies Inc,Marvuh Circle 413,20479771614,75681320,5583513,,,,
-Office Depot Inc.,Nieh Plaza 946,20253898283,04935407,949813748,,,,
-Bell Microproducts Inc.,Binbek Parkway 832,20929445577,80878577,6914374,,,,
-NCR Corporation,Fospev Court 340,20862725854,44649616,4923566,,,,
-Georgia Gulf Corporation,Kesda Junction 396,10977514315,59348998,969258552,,,,
-The Clorox Co.,Vorap Road 366,10521171232,93064017,3417482,,,,
-Williams Sonoma Inc,Zuvuj Place 885,20745764311,05318485,4159642,,,,
-"ALLETE, Inc.",Cubuf View 974,10744886663,97946701,935372361,,,,
-Radio Shack Corporation,Mianu Park 866,20699873662,05242551,948284372,,,,
-Atmos Energy Corporation,Hakuk Loop 087,10656199796,19433102,988551145,,,,
-"Dollar Tree Stores, Inc.",Terad Place 699,10848626113,96363930,2245554,,,,
-Flowserv Corp,Jibnu Mill 589,20495844472,43595992,3538355,,,,
-"Brinker International, Inc.",Evjo Grove 988,20741765918,03576588,955945719,,,,
-Murphy Oil Corporation,Ajilo Court 905,10349335325,75458603,3756471,,,,
-La-Z-Boy Inc.,Bessij Drive 178,10323775291,45893916,959712689,,,,
-Synovus Financial Corp.,Irewe Extension 190,20568697778,48750155,5349443,,,,
-ACT Manufacturing Inc.,Gisi Key 704,10536846312,35530915,5818694,,,,
-Merrill Lynch & Co. Inc.,Ebnim Path 702,10783979797,20036767,921859212,,,,
-Apartment Investment and Management Company,Wates Park 367,10828835555,27833162,4488268,,,,
-Novellus Systems Inc,Lirtaf River 968,20347363538,31574919,4616614,,,,
-Champion Enterprises Inc.,Etezuj Lane 520,10576229954,75445451,4342185,,,,
-Fleming Companies Inc.,Uzfug Ridge 279,10131143777,99577484,946536213,,,,
-Alliant Energy Corporation,Nitod Place 434,20458543262,20554892,4339149,,,,
-Ross Stores Inc,Tutbil Heights 736,20657683641,23777632,945398377,,,,
-MetLife Inc.,Agad Road 269,10667741233,23576760,5332893,,,,
-"D&K Healthcare Resources, Inc.",Ludvuw Parkway 472,10121672824,03849667,957115487,,,,
-National Oilwell Inc,Foono Highway 106,20586828192,19231313,935324477,,,,
-IMC Global Inc.,Ruzos Court 144,20398398593,00563457,4583532,,,,
-"Ames Department Stores, Inc.",Jojiru Parkway 942,10236978819,11125200,3929643,,,,
-Timken Company,Refdam Parkway 990,10784484915,02015399,928889299,,,,
-Henry Schein Inc.,Kihug Terrace 059,10996847956,77175081,947691351,,,,
-Questar Corp,Igecu Way 202,20668299251,90901755,923863819,,,,
-Sanmina-SCI Inc,Vevap River 323,20585569354,73861772,982951168,,,,
-AmSouth Bancorp.,Ovebev Path 222,20174358771,44678531,954731696,,,,
-AMERCO,Jaagu Manor 344,20117827923,59190892,951949781,,,,
-Sovereign Bancorp Inc.,Hifruv Ridge 052,20858189225,11799896,6475361,,,,
-Kelly Services Inc.,Ahuhi Trail 272,10436756611,75540597,4826138,,,,
-Oracle Corp,Itibi Point 673,10664328142,45272936,927475991,,,,
-Whole Foods Market Inc,Boav Point 842,20592144886,42915360,4847778,,,,
-Microsoft Corporation,Upwo Grove 271,10723174832,66877186,914419639,,,,
-Ingles Market Inc,Pilik Lane 595,10751738151,76047291,994765341,,,,
-Spartan Stores Inc,Telo Heights 718,10385782433,87644955,4795619,,,,
-H.J. Heinz Company,Souje River 030,10283787283,40390559,967123722,,,,
-Walgreen Co,Wori River 863,10141161571,59452825,5842774,,,,
-DQE Inc.,Gohip Court 128,20181589875,79417131,928171198,,,,
-Dun & Bradstreet Inc.,Ogtad Turnpike 418,10354594737,87092203,4191222,,,,
-Adelphia Communications Corporation,Hogok Way 650,10734837289,69480216,4334726,,,,
-Wisconsin Energy Corporation,Biliw River 399,20497987718,86566838,6845866,,,,
-State Street Corp.,Tafoku Manor 912,20273792182,96339218,959961881,,,,
-"Earthlink, Inc.",Hikni View 500,10782144251,24057171,938442879,,,,
-Burlington Resources Inc.,Elpo Key 136,10535176637,09591241,4322544,,,,
-"AutoZone, Inc.",Fosme Boulevard 771,10742362887,92760179,988452538,,,,
-Jabil Circuit Inc.,Risab Plaza 721,10772286196,04161813,6931357,,,,
-Toll Brothers Inc,Opewoz Plaza 633,20444324565,44861457,2457173,,,,
-Dillard's Inc.,Tunhel Park 414,20492356377,81948831,2532489,,,,
-AFLAC Incorporated,Sodkas Grove 845,20436242421,16579575,953248766,,,,
-Sierra Health Services Inc,Gulke Circle 369,10733196745,09368354,5184538,,,,
-Kroger Co.,Dozos Pass 290,10265431133,20769480,969195636,,,,
-Fortune Brands Inc.,Vobob Key 089,10768374841,59265623,923542632,,,,
-Valero Energy Corporation,Fohu Point 426,10288796871,66496857,938243677,,,,
-Nordstrom Inc,Hovliz Manor 373,10654317548,36350941,977881689,,,,
-The Neiman Marcus Group Inc.,Gecbas Avenue 634,10165582645,78564706,6336925,,,,
-Collins & Aikman Corp.,Ledir Turnpike 871,10283629144,81701666,2857339,,,,
-SCI Systems Onc.,Maif Parkway 665,10469955719,21259946,927437365,,,,
-Trinity Industries Inc,Nangub Glen 785,20943286873,69488592,972127843,,,,
-Pactiv Corp,Gedsil Square 455,20838394181,36659093,986785137,,,,
-Performance Food Group Co.,Jezfi Junction 468,20237686783,81710505,992761856,,,,
-TravelCenters of America Inc.,Butruv Glen 824,20236534323,32130771,982177269,,,,
-Cendant Corp,Fabo Street 143,10341554927,97514741,925963329,,,,
-Cisco Systems Inc.,Tiena Path 664,20776278132,00499975,911554759,,,,
-Peoples Energy Corp.,Cakon Road 922,10238192612,69655488,928398749,,,,
-PETsMART Inc,Zoju River 468,10259882447,04920233,2117295,,,,
-PolyOne Corp,Rekac Circle 402,10783659786,83962173,976441741,,,,
-Unocal Corporation,Ezaduz Drive 977,20424663611,67411720,928673176,,,,
-MDU Resources Group Inc.,Nuwon Turnpike 676,20972799672,56482198,921536932,,,,
-Hartford Financial Services Group Inc.,Dazat Pass 511,20489251597,08140001,5127769,,,,
-Countrywide Credit Industries Inc.,Cero Grove 513,20787663771,19392327,3756935,,,,
-Granite Construction Incorporated,Refug Drive 763,10561365371,13475152,915572232,,,,
-Family Dollar Stores Inc.,Jacoh Heights 420,10183514229,20321749,4863978,,,,
-Carlisle Cos. Inc.,Umasod Circle 229,20853339148,01744577,4989921,,,,
-H&R Block Inc.,Juzej Plaza 184,20154122524,22751691,934593311,,,,
-Reebok International Ltd.,Uchag Manor 521,10712241111,06515930,942852855,,,,
-Avery Dennison Corporation,Woiwe Lane 802,10319511311,29701843,5996751,,,,
-Bed Bath & Beyond Inc.,Advu Turnpike 061,10729783362,13630881,5133382,,,,
-GenCorp Inc.,Ipkuz Square 926,20148287658,23811537,918863481,,,,
-Lincoln National Corporation,Esabe Center 314,20561347756,69765753,4734672,,,,
-Wal-Mart Stores Inc,Jevmi Trail 514,20323211352,62256788,911172956,,,,
-L-3 Communications Holdings Inc.,Nigah Pass 860,20117847842,41578759,2232813,,,,
-Potomac Electric Power Co.,Lara Extension 998,10755253797,63645861,941369468,,,,
-Western Digital Inc,Zifiw Way 225,20448319978,58770611,5726695,,,,
-UGI Corporation,Caheg Lane 701,10993919453,02201900,2112645,,,,
-The Boeing Company,Folda Pike 551,20784657986,93129903,934177128,,,,
-Mellon Financial Corporation,Caka Plaza 770,20446278956,02310807,4124522,,,,
-Hillenbrand Industries Inc.,Zefi Way 744,20749263217,98288550,923591139,,,,
-Popular Inc,Nacib Highway 774,10978314598,10756270,3733413,,,,
-"Becton, Dickinson and Company",Gabi Glen 551,20715424527,26733270,967461966,,,,
-Principal Financial Group Inc.,Wugo Court 675,20774645823,77931477,928326163,,,,
-NCR Corporation,Huso Pike 173,10832425473,30489508,993499514,,,,
-American Express Company,Emuvu Lane 095,10512337929,18761667,2998358,,,,
-Coca-Cola Enterprises Inc.,Fokow Center 723,20139372839,77335722,4835424,,,,
-Johnson & Johnson,Ewov Junction 399,20738521561,99856101,925998529,,,,
-"AdvancePCS, Inc.",Bepe Junction 436,20917677898,51398814,6446364,,,,
-Union Planters Corp,Ipuefe Court 463,10228711867,61289855,4372484,,,,
-WestPoint Stevens Inc,Gekve Pass 928,10688512247,47490583,2289515,,,,
-FMC Corp,Pajenu Way 228,10249979293,27694415,3698245,,,,
-Southern Union Company,Bahe Plaza 072,10138515637,32602485,933389918,,,,
-Lands' End Inc.,Sopo Lane 737,20135947878,77045622,976878555,,,,
-USA Interactive,Dehiz Way 252,20317956861,39475032,5236197,,,,
-Bausch & Lomb Incorporated,Fekvuj Center 075,10178534731,55982742,952684162,,,,
-Collins & Aikman Corp.,Giweh Circle 571,10589164698,69342200,916245899,,,,
-"E*Trade Group, Inc.",Zikari Pike 945,10417352661,58628854,3265139,,,,
-Lennar Corporation,Adabo Highway 633,10363548311,99664559,3492417,,,,
-ServiceMaster Co,Kuedu Boulevard 525,20354256138,32737958,939443294,,,,
-Veritas Software Corporation,Sunka Glen 507,10578239577,76239539,914179879,,,,
-Dillard's Inc.,Ofijom Terrace 984,20665392516,22971023,5828755,,,,
-The McGraw-Hill Companies Inc.,Vifi Ridge 984,20438877535,62885522,987963191,,,,
-Adelphia Communications Corporation,Jiowi Extension 020,20754453538,98426020,965578668,,,,
-Sears Roebuck & Co,Joha Road 359,20449973169,47774458,912234612,,,,
-Valspar Corporation,Enrur Pass 037,10113992919,69279029,991554443,,,,
-Rock-Tenn Co,Neid River 900,20611341514,62733847,6889712,,,,
-First Tennessee National Corp.,Abiuji Circle 540,10634913289,96090441,4544941,,,,
-ConAgra Foods Inc.,Ogta Avenue 055,20511257624,49528224,995981994,,,,
-Herman Miller Inc.,Hera Plaza 236,10547578543,96275849,3674416,,,,
-Bausch & Lomb Incorporated,Rakha Court 159,10917743367,79152574,2918495,,,,
-"Applied Industrial Technologies, Inc.",Epud Terrace 997,20355197262,88362910,6416974,,,,
-"Amkor Technology, Inc.",Rebuja Key 625,20234663266,85208188,4893114,,,,
-Rohm & Haas Co.,Figo Manor 250,20141266646,72242227,2723493,,,,
-IMS Health Inc.,Vuvonu Square 603,20298796729,28154185,3991382,,,,
-Rent A Center Inc,Sowvuf Court 632,20176618339,18507198,2861568,,,,
-"Best Buy Co., Inc.",Woovu Grove 413,10878951281,98611037,984272439,,,,
-Crompton Corp.,Ajfat River 825,10243475897,80137027,4385636,,,,
-VF Corporation,Rafo Extension 120,20745987853,23992170,968377118,,,,
-Pentair Inc,Owiojo Plaza 574,10955554629,09222932,925659631,,,,
-Golden State Bancorp Inc.,Urbu Circle 580,20721424225,11291663,978947991,,,,
-Apache Corporation,Delji Center 837,10938456386,83930644,938633339,,,,
-AOL Time Warner Inc.,Irlot Road 273,10682671827,81273988,953649227,,,,
-"Pep Boys Manny, Moe & Jack",Racu Square 744,20256842693,88943848,998219346,,,,
-Stewart Information Services Corp,Kewcub Road 835,20668628669,36293208,3261822,,,,
-"AdvancePCS, Inc.",Ligsiw Terrace 189,10124533853,06247672,2535454,,,,
-"Best Buy Co., Inc.",Wulum Junction 916,20743135736,93508859,945868931,,,,
-The May Department Stores Company,Elenij River 399,20567346142,74468281,974363551,,,,
-Unified Western Grocers Inc,Umoso Pike 501,10946292724,95363426,945459279,,,,
-NiSource Inc,Tesso Square 836,10616721481,96270326,986572844,,,,
-Temple-Inland Inc,Ajtev Place 002,10551671562,63591769,5918424,,,,
-Cooper Cameron Corp.,Iweza Center 025,10173787841,26159229,951214788,,,,
-Saks Inc,Forwer River 678,20879276751,39653755,2293836,,,,
-Anadarko Petroleum Corporation,Revsu Place 577,20722594722,71844137,941644619,,,,
-Pinnacle West Capital Corp,Roena Lane 025,10457629942,17767234,2296988,,,,
-Michaels Stores Inc.,Mogti Heights 965,10991372513,38569233,5758888,,,,
-Safeco Corp,Jebu Turnpike 907,10241912948,84372610,956422726,,,,
-Regis Corporation,Piswaf Street 318,20634523899,90969347,4328847,,,,
-Outback Steakhouse Inc.,Timu Road 396,10877383845,24716980,5959337,,,,
-United Defense Industries Inc.,Ropalu Loop 385,20268967685,29939622,927788132,,,,
-Questar Corp,Ituode Lane 240,10859874765,68718576,5427858,,,,
-Regis Corporation,Kasli Park 051,10861336231,28622600,6288225,,,,
-Northeast Utilities System,Rezisu Square 068,10913262753,16617159,4761623,,,,
-First National of Nebraska Inc.,Bikli Grove 622,10538361984,42021108,953437873,,,,
-Nordstrom Inc,Hukek Terrace 055,20237977737,77519912,999478173,,,,
-Lexmark International Inc.,Detice Mill 338,10844245541,24048676,958282938,,,,
-XO Communications Inc,Tuobe Lane 621,10713884589,00678180,956458399,,,,
-TRW Inc,Okunuw Key 696,20536138256,07463234,4195935,,,,
-Ruddick Corp,Hitho Pike 456,20929815257,22321105,958573586,,,,
-Forest Laboratories Inc.,Tawab Parkway 640,10636563765,55537027,3315572,,,,
-Brunswick Corporation,Bakve Court 374,20396815325,18009074,2495234,,,,
-PSS World Medical Inc,Enocu Extension 249,20884469124,38793277,2667592,,,,
-IMC Global Inc.,Jaljo Loop 578,20757782422,55077110,3732178,,,,
-Carpenter Technology Corp.,Ravkit Key 679,20718773398,58279414,916716684,,,,
-"Analog Devices, Inc.",Ecima River 666,20355218237,16657836,949628182,,,,
-Hershey Foods Corp.,Ijeku Mill 394,10154623839,58418920,913391742,,,,
-Rockwell Collins Inc,Guwo Square 538,20212513899,61253446,987616361,,,,
-First National of Nebraska Inc.,Dadud Path 419,20999395169,17445739,4312524,,,,
-Marathon Oil Corporation,Okujuv Boulevard 426,20528254345,69468064,927224458,,,,
-Timken Company,Korak River 757,10164952153,48025875,986128465,,,,
-Xcel Energy Inc,Zuavi Junction 199,20255828786,03462322,3867439,,,,
-Harsco Corp.,Pecas Circle 343,10696176739,60568047,968362269,,,,
-SBC Communications Inc,Iwko Avenue 449,10349138966,08625647,965819946,,,,
-Abbott Laboratories,Kitak Point 559,20541961555,05976101,3777799,,,,
-Ryder System Inc,Akeowe Mill 998,10222677826,48820767,941919421,,,,
-Ryder System Inc,Sefaw Path 047,20585317172,49273492,928964287,,,,
-W.R. Grace & Co,Ipil Loop 481,10998214437,66382266,946191423,,,,
-Baker Hughes Incorporated,Wekvu Key 340,20158316581,62355017,4382596,,,,
-Veritas Software Corporation,Guhju Terrace 485,20137537838,89505910,981135376,,,,
-Continental Airlines Inc.,Geesu Highway 305,20987554414,27221352,5329641,,,,
-Cintas Corp.,Nehat Extension 919,20357826422,92908929,2636683,,,,
-"Affiliated Computer Services, Inc.",Kofi Plaza 239,10739354735,75515399,5585458,,,,
-Emerson Electric Co.,Gavmaj Center 182,20653974465,26014491,5838921,,,,
-Jefferson-Pilot Co.,Kogdaz Trail 177,20421958111,36845185,997154578,,,,
-Stanley Works,Tevwit Court 017,20554853881,10795660,948429481,,,,
-McKesson Corporation,Hozuv Lane 224,10574433627,11108315,4845162,,,,
-Charter Communications Inc.,Wimad Point 500,20724327415,09367979,6934462,,,,
-Estee Lauder Companies Inc.,Walteh Pike 072,10479677555,04395678,961388312,,,,
-Household International Corp.,Koore Court 137,10558855372,49405534,6127531,,,,
-Rohm & Haas Co.,Gujsu Plaza 169,20931195392,49132380,978928982,,,,
-TruServ Corporation,Wawvef Parkway 689,10444932159,95667812,961745472,,,,
-CVS Corp.,Duzon Ridge 158,10696184133,07148925,4113869,,,,
-Packaging Corp. of America,Acadu Terrace 196,10669932756,47056993,6114427,,,,
-Questar Corp,Loppe Manor 697,20674719152,23248877,3516784,,,,
-Corn Products International Inc.,Lokhid Loop 285,20153327778,50029389,5979886,,,,
-Teleflex Incorporated,Hatkaw View 462,10529671823,87868656,3985126,,,,
-Wachovia Corporation,Uzle Manor 419,20737787569,66722465,917536166,,,,
-Ford Motor Co,Soew Avenue 298,10731952256,82076873,5939338,,,,
-Stryker Corp,Alga Avenue 133,20586669969,94804008,3838136,,,,
-Agway Inc.,Letdi Avenue 115,20591172883,27573526,2289696,,,,
-Lucent Technologies Inc.,Elihod Place 147,20432547693,65342342,3986441,,,,
-Eli Lilly and Company,Reeja Trail 395,10336728372,50170812,4248485,,,,
-Mattel Inc.,Kosem Plaza 676,10564392937,12546362,6651682,,,,
-"BJ's Wholesale Club, Inc.",Lotta Center 251,20857231835,44349510,5653662,,,,
-Volt Information Sciences Inc,Hisoz Ridge 170,10355568698,76112192,3537526,,,,
-Cabot Corp,Sufed Park 407,10493428565,58203340,4891993,,,,
-Kerr-McGee Corporation,Nehno Lane 110,20725279833,79399901,4987433,,,,
-International Multifoods Corporation,Aloleh Parkway 118,20985169666,27807901,971496336,,,,
-Stanley Works,Namtu Drive 242,10759331548,48585375,6395557,,,,
-Dun & Bradstreet Inc.,Ifga Pike 776,10547386838,58897732,5433317,,,,
-Nash Finch Company,Nimo Pass 514,20678586892,68902283,933727166,,,,
-Allmerica Financial Corporation,Giwnuh Mill 564,10541568169,49994062,4811197,,,,
-"Dole Food Company, Inc.",Jupatu Terrace 427,10995442794,16616596,2419575,,,,
-Allegheny Technologies Incorporated,Vizesi Highway 771,20195599273,37255833,948551144,,,,
-Union Pacific Corporation,Teju Park 502,10528446673,16144581,4452462,,,,
-"Dollar Tree Stores, Inc.",Apeona Terrace 110,20384678178,57000830,4787338,,,,
-Corning Inc.,Sugi Street 726,20243264785,05842362,991717348,,,,
-International Business Machines Corp.,Ateozo Parkway 159,20153524739,55534277,6428834,,,,
-Computer Sciences Corp.,Zuin Center 690,10216949823,00436568,5848491,,,,
-American Greetings Corporation,Kudhuw Pass 117,20669116782,90818367,976444534,,,,
-Willamette Industries Inc.,Muscij Extension 066,20581381696,01562229,923563729,,,,
-Republic Services Inc,Ceril Junction 880,20929675897,43614931,982627392,,,,
-Lucent Technologies Inc.,Ebahe Point 832,10885534273,12002601,921967678,,,,
-Plains All American Pipeline LP,Pemwas Parkway 035,20712696399,97586324,934398598,,,,
-Waste Management Inc,Avufa Loop 945,20138476869,30067238,6688974,,,,
-Kindred Healthcare Inc.,Akamon Extension 738,20497496752,59322241,2979733,,,,
-Providian Financial Corp.,Pezjo Pass 873,20558725589,75797743,948582242,,,,
-Tech Data Corporation,Bidud View 129,10827617293,99155247,5494823,,,,
-Furniture Brands International Inc.,Irudo Extension 406,10531732116,80325656,987982789,,,,
-Potlatch Corp,Ivuvig Street 894,20885941586,54375014,917214473,,,,
-MPS Group Inc.,Pilro Ridge 514,10165681577,74363490,2522123,,,,
-"Dover Corporation, Inc.",Wova Avenue 027,10568159767,62384409,2298482,,,,
-Eaton Corporation,Kidfe Mill 107,20359992932,81802727,923534361,,,,
-Perot Systems Corp,Gape Ridge 703,20313474166,12485997,5131552,,,,
-Ferro Corp.,Elinel Place 865,20831316347,22592643,4587276,,,,
-Apache Corporation,Arihu Square 544,20644514838,91428793,6622636,,,,
-Perot Systems Corp,Cubned Manor 950,10825571432,77745087,962545871,,,,
-Tech Data Corporation,Kuagu Street 214,10739541323,29824859,2919619,,,,
-Tiffany & Co,Agoz Ridge 314,20947767591,50758381,916688138,,,,
-MasTec Inc.,Hezga Avenue 565,20758885271,70866424,956453211,,,,
-Eastman Kodak Company,Pozva Glen 044,10474693646,13684363,5281877,,,,
-Teleflex Incorporated,Hunup Turnpike 867,20748684178,32011538,944871614,,,,
-UGI Corporation,Zahav Junction 379,20656378225,59475711,2395588,,,,
-"Beverly Enterprises, Inc.",Icibo Terrace 349,20414964768,25138527,2538752,,,,
-"Alaska Air Group, Inc.",Ilhum Terrace 201,20476538486,65122702,2895718,,,,
-Burlington Resources Inc.,Tigzub Trail 915,20824385431,14692396,925843387,,,,
-Ryerson Tull Inc,Ziba Path 154,10358791557,12757278,3686397,,,,
-Ciena Corp.,Jokhe Glen 428,20523261768,62608467,938986136,,,,
-"Becton, Dickinson and Company",Niwsi Avenue 091,10615879361,08464614,3219693,,,,
-"Allergan, Inc.",Erfub Pike 323,20338828785,34012032,2347932,,,,
-Reebok International Ltd.,Codof Key 760,10842484881,39273771,4919868,,,,
-Comfort Systems USA Inc.,Tipe Pass 836,20144945352,03154686,968119411,,,,
-Primedia Inc,Sikjap River 585,10972345326,36195208,5426466,,,,
-Spherion Corp,Humlej Pike 658,10318449822,83786715,952273745,,,,
-Ruddick Corp,Widuv Turnpike 942,20566446233,55695069,922179119,,,,
-Great Plains Energy Inc.,Razo Way 741,20166647969,31342167,2185111,,,,
-W.W. Grainger Inc,Onris River 730,20439761521,66081250,2831446,,,,
-Corn Products International Inc.,Awuse Court 679,10937383411,07446213,2383444,,,,
-Primedia Inc,Baza Turnpike 873,10516622786,11391809,4362741,,,,
-Costco Wholesale Corp.,Minece Glen 473,10975492282,74798590,6546382,,,,
-CenturyTel Inc.,Dipik Road 818,20992756636,19924186,3928154,,,,
-Limited Inc.,Veti Lane 085,20877639597,80837800,3111474,,,,
-"Banknorth Group, Inc.",Vunive Turnpike 964,20916446686,07403424,936193177,,,,
-"Anheuser-Busch Companies, Inc.",Golzi Circle 283,10832471541,66112643,4267463,,,,
-Sequa Corp,Rato Extension 998,10444195364,50006903,4518217,,,,
-H&R Block Inc.,Ufduf Mill 699,10262239228,08712263,985867151,,,,
-Kemet Corp.,Cejuw Grove 829,10452852127,75581761,5798644,,,,
-Pathmark Stores Inc.,Zotap Plaza 545,10764557962,91553987,4838112,,,,
-Robert Half International Inc.,Oflir Park 973,10345834766,34035456,3725168,,,,
-Delta Air Lines Inc.,Ujeus Junction 853,20289129521,52547336,979668133,,,,
-Reliant Energy Inc.,Ruku Junction 324,10944248951,24280234,3359924,,,,
-World Fuel Services Corporation,Iwbab Ridge 015,10434321366,39699604,991157712,,,,
-Briggs & Stratton Corporation,Fupap Street 533,10778282885,05787286,985222887,,,,
-Toll Brothers Inc,Zovoma Parkway 460,20693959821,86528496,979968371,,,,
-Olin Corp.,Boce Loop 304,20363216825,58677837,3859552,,,,
-Burlington Northern Santa Fe Corporation,Ecec Plaza 597,20247926163,41434545,4815157,,,,
-Milacron Inc.,Unehaf Path 222,20992573419,45946165,943153861,,,,
-Prudential Financial Inc.,Wure Court 336,10554627961,62120226,2832664,,,,
-3M Company,Jovji Key 702,10643767787,06695008,983556139,,,,
-Pennzoil-Quaker State Company,Edenur Place 994,10965154895,94345374,2282631,,,,
-"Applied Materials, Inc.",Edali Park 320,20324546238,45936609,948995184,,,,
-Viad Corp,Cuko Grove 878,10586824947,91596958,2765776,,,,
-Weyerhauser Company,Evidil Grove 208,10139829659,02087373,2677581,,,,
-Gemstar-TV Guide International Inc.,Afnop Place 882,10516865678,18616258,6741748,,,,
-AnnTaylor Inc.,Genos Lane 613,20643794883,10532813,3311878,,,,
-MBNA Corporation,Tenef Heights 966,10384644275,20857347,988274995,,,,
-Energizer Holdings Inc.,Leipo Manor 419,10576575437,85271146,971318862,,,,
-"Apple Computer, Inc.",Baros Plaza 547,20375468658,51447725,993534678,,,,
-Federated Department Stores Inc.,Avuper Boulevard 069,10658514535,18423601,979554758,,,,
-LandAmerica Financial Group Inc.,Sawale Heights 832,20898431435,72421187,989887541,,,,
-Silicon Graphics Inc,Fodis Street 030,20883535956,21532476,958841754,,,,
-Universal Forest Products Inc,Loav Terrace 514,20854165129,74190634,6931218,,,,
-Abbott Laboratories,Atge Pike 661,20237726425,79093897,974158248,,,,
-Shaw Group Inc,Seosu Street 516,20658312154,48343517,3726241,,,,
-Texas Instruments Incorporated,Sove Place 269,10544241996,07275325,965516877,,,,
-"Analog Devices, Inc.",Jojoh Court 192,20714719267,92673707,942595435,,,,
-Lam Research Corporation,Sosim Path 810,10344593177,06412267,966799474,,,,
-Crompton Corp.,Gubu Highway 697,20331655414,09069934,6273277,,,,
-Nucor Corp,Dijaf Trail 482,10138947695,21872835,4262872,,,,
-Lowe's Companies Inc.,Gujen Grove 855,20988713254,66901631,957577548,,,,
-Avery Dennison Corporation,Abura Court 803,20889383864,80194725,2514718,,,,
-Ivax Corp.,Cepib Square 458,10954117989,57686169,2538229,,,,
-"Broadwing, Inc.",Sorva Circle 414,20767665924,29989234,952182883,,,,
-"Belk, Inc.",Luve Manor 335,20412731463,00828818,3246234,,,,
-Crown Cork & Seal Co. Inc.,Erci Grove 640,10881348254,50382519,5956537,,,,
-Henry Schein Inc.,Baomo Terrace 858,20441348827,36572633,2294335,,,,
-Science Applications Intl. Inc.,Gijuz Glen 560,10838917141,30646148,6273988,,,,
-Quintiles Transnational,Kogil Mill 381,10815169221,67142371,6161333,,,,
-Kelly Services Inc.,Zowo Key 603,10783297597,46785734,5783656,,,,
-Allegheny Technologies Incorporated,Pinfig River 581,10953977641,65570105,989585272,,,,
-Vulcan Materials Company,Jave Highway 740,10444918361,24484306,5171952,,,,
-Tesoro Petroleum Corp.,Pubti Terrace 494,10148793268,79513701,969673667,,,,
-DPL Inc.,Vonduj Mill 174,10364798988,56130858,921977352,,,,
-CNF Inc.,Lavgi Drive 125,20612445884,97109717,969278879,,,,
-Henry Schein Inc.,Ibgu Manor 294,20977155611,03899207,914229238,,,,
-Kimball International Inc.,Zobuf Lane 565,20784353967,31218961,946324453,,,,
-Crown Cork & Seal Co. Inc.,Feag Junction 865,10793111263,02273735,4489249,,,,
-Kimberly-Clark Corporation,Pufufa Ridge 273,10762388863,04030208,938617674,,,,
-"BJ's Wholesale Club, Inc.",Kumuf Mill 072,10344179144,22997777,956881497,,,,
-Allmerica Financial Corporation,Cafin Road 528,10432958381,05706241,5276221,,,,
-PacifiCare Health Systems Inc,Ifjez Junction 076,10421116724,97644802,987821188,,,,
-Quantum Corp,Wowmac Terrace 790,20157815246,91018072,6785383,,,,
-Manpower Inc.,Gecug Point 440,20312486826,37552174,964624123,,,,
-"Armstrong Holdings, Inc.",Ojuli Center 601,10361765322,54421732,952116252,,,,
-Crane Co.,Paslum Point 787,20588487789,54812716,6689854,,,,
-Value City Department Stores Inc,Ekonab Ridge 340,10522437457,78378255,945667197,,,,
-Raytheon Company,Cebo Pike 015,20642529758,19656895,999976682,,,,
-General Mills Inc,Jiij Street 869,20541543184,20374111,922221639,,,,
-Pennzoil-Quaker State Company,Uneub Path 777,10741267133,92661876,978624618,,,,
-Cabot Corp,Cebcin Glen 934,20451743724,23807658,999788223,,,,
-Humana Inc.,Komtan Pass 558,10913693432,29890898,5741737,,,,
-Fidelity National Financial Inc.,Kijte Highway 427,10699252835,43358798,947126442,,,,
-Perot Systems Corp,Konug Way 393,10752468981,34682331,4666997,,,,
-Walt Disney Co,Ilisiv Junction 292,20839336147,68508908,3782862,,,,
-Western Gas Resources Inc,Beco Pass 073,10139314784,47560520,3369363,,,,
-"ADC Telecommunications, Inc.",Hopa Loop 296,10916811411,68835829,994728796,,,,
-"Amtran, Inc.",Ipsu Park 713,10712919822,18444509,2188118,,,,
-Lincoln National Corporation,Wuro Loop 106,20523414691,73724438,2448613,,,,
-Kellwood Company,Ithe Extension 198,10192642445,24810628,914386127,,,,
-Intuit Inc.,Cage View 247,10497545266,26958537,6726588,,,,
-Lexmark International Inc.,Nucpo Boulevard 105,10879635959,97123521,5946254,,,,
-Adobe Systems Incorporated,Lifbut Glen 456,20754497427,38254892,3261878,,,,
-Gillette Company,Kesura Grove 900,20494427993,05147598,941695842,,,,
-ACT Manufacturing Inc.,Memriw Park 421,20276359467,86581745,4213633,,,,
-"Earthlink, Inc.",Anize Highway 542,20813435431,15530289,2889539,,,,
-CVS Corp.,Uwucel Parkway 774,20125872333,92133834,5565238,,,,
-Gold Kist Inc.,Tegmuw Path 623,10395393627,07812843,916121798,,,,
-Constellation Brands Inc.,Kemis Extension 149,20313973873,33545063,3666793,,,,
-OM Group Inc,Sieda Point 147,20653916864,29765860,4967378,,,,
-Martin Marietta Materials Inc.,Vale Road 291,20579573244,06030573,941234257,,,,
-TXU Corp,Tujlor Extension 114,10976639367,24172776,2798799,,,,
-Pacific Gas & Electric Corp.,Ubseb Key 431,10759531652,64978867,932723919,,,,
-Penn Traffic Co.,Laper Key 191,20758633579,71157517,938955815,,,,
-Hasbro Inc.,Ikuci Heights 029,10199545564,08243775,991223127,,,,
-"Albertson's, Inc.",Olhi Avenue 154,20754317524,55119266,961922662,,,,
-PeopleSoft Inc,Acuza Plaza 546,10276693848,00367109,953939964,,,,
-Wyeth,Jahniw Boulevard 890,10173852341,65803539,929642244,,,,
-Smurfit-Stone Container Corp,Ujino Center 771,10293476336,31224935,984171139,,,,
-IMS Health Inc.,Ucani Loop 447,10265267696,50339257,948846231,,,,
-IMC Global Inc.,Egonij Path 082,20674699695,82129078,5978646,,,,
-Dynegy Inc.,Pewze Terrace 652,10369646331,56972277,4595111,,,,
-"Dole Food Company, Inc.",Ovueku Pass 672,10911622951,05993359,955796589,,,,
-Protective Life Corp,Vewlun Lane 311,20735462393,41666219,961761249,,,,
-Equity Office Properties Trust,Poroh Center 009,10915253585,83818093,916823637,,,,
-Shaw Group Inc,Otunoh Boulevard 984,20259121253,57426882,956389644,,,,
-Crown Cork & Seal Co. Inc.,Ducag Highway 585,10275377356,91964111,979637315,,,,
-Foster Wheeler Ltd.,Zepad Trail 617,10973332971,26537427,976451518,,,,
-"Advantica Restaurant Group, Inc.",Jeldo Circle 871,20557112343,91913189,921972525,,,,
-NiSource Inc,Keffit Path 147,20494679678,86598574,6817938,,,,
-Fleetwood Enterprises Inc.,Beuko Turnpike 039,10365543124,99202083,918492847,,,,
-UAL Corporation,Pijweg View 436,20727415948,05676727,942649994,,,,
-MDU Resources Group Inc.,Gufbo Glen 733,20849256371,15361932,2746929,,,,
-Ingram Micro Inc.,Dosefu Glen 775,10547664541,15716723,4571239,,,,
-Farmland Industries Inc.,Gojer Manor 323,20596852551,67999137,2794418,,,,
-Supervalu Inc,Jouza Avenue 336,10194634193,85571825,5314376,,,,
-Western Gas Resources Inc,Dimpu River 044,20262256536,87204913,3198479,,,,
-Applera Corporation,Tusre River 474,20646352474,17137260,4289758,,,,
-Ace Hardware Corporation,Jenoh Junction 849,10972911162,60878613,976837511,,,,
-Pioneer-Standard Electronics Inc.,Votsij Trail 559,10626717812,97879149,991524826,,,,
-Concord EFS Inc.,Awejow Point 436,20828427553,35813836,943298315,,,,
-Champion Enterprises Inc.,Kenfud Heights 355,10837636581,44792300,3895946,,,,
-Harrah's Entertainment Inc.,Kurpoj Highway 836,10295253769,52581614,5992692,,,,
-AmerisourceBergen Corporation,Majsu Point 069,10342312142,11681361,928188336,,,,
-MBNA Corporation,Jerug Extension 025,20583276275,05447635,5857658,,,,
-Briggs & Stratton Corporation,Tabza Circle 344,20133244177,05940708,993552933,,,,
-Amgen Inc.,Gowol Manor 747,20535476393,94368363,6717295,,,,
-WorldCom Inc,Anloh Pass 727,20762838611,42506730,928493836,,,,
-Harris Corp.,Difiz Avenue 802,20973544511,15585048,6185476,,,,
-Sports Authority Inc,Seini Drive 036,10466121832,19004989,4845255,,,,
-Trump Hotels & Casino Resorts Inc.,Ipunas Parkway 767,20165775966,16023720,939396567,,,,
-Markel Corporation,Dehtac Grove 428,20825224669,11306809,4515768,,,,
-"Automatic Data Processing, Inc.",Ferzow Avenue 609,20292552915,19927265,4638828,,,,
-A.G. Edwards Inc.,Acowat Way 617,20389516875,83020348,6989899,,,,
-Phelps Dodge Corp.,Zenvov River 500,10976893392,80256160,5272488,,,,
-The Clorox Co.,Nuwfoz Point 073,20879841913,03440943,6454486,,,,
-Potomac Electric Power Co.,Waluci Road 119,20794346422,13283561,973723892,,,,
-Freeport McMoran Copper & Gold Inc.,Tufgug Circle 845,20181737421,35001642,2617532,,,,
-Hibernia Corp.,Adaz Heights 898,20355772116,32759865,2555482,,,,
-GATX Corporation,Ubutuc Path 701,10432947755,44075748,911986569,,,,
-Atmel Corporation,Vofme Street 762,20712971335,38640711,997535736,,,,
-Newmont Mining Corporation,Maara Road 546,10379851489,66938819,5641972,,,,
-Marsh & McLennan Companies Inc.,Juta Path 718,10666636692,96828309,3599798,,,,
-ChevronTexaco Corp.,Apfe Center 526,10576839372,74416875,2438317,,,,
-Visteon Corporation,Kavas Lane 033,20144431126,78386213,998262835,,,,
-The Lubrizol Corporation,Giwpa Park 930,20858364294,00794191,918489783,,,,
-Alliant Energy Corporation,Ekvak Glen 029,10147656187,13659166,6668817,,,,
-American Greetings Corporation,Valo Boulevard 332,10384798637,42317773,4762256,,,,
-America West Holdings Corporation,Hedze River 583,20771263187,71177751,6618796,,,,
-Thomas & Betts Corporation,Suga Trail 380,10218544641,14065864,6438268,,,,
-OGE Energy Corp,Wamiz Manor 264,20472858493,24623497,997998384,,,,
-Viasystems Group Inc,Cakima Key 500,10579621936,34308227,2453656,,,,
-National Semiconductor Corporation,Kapuf Path 303,20971476457,46981690,966254143,,,,
-Family Dollar Stores Inc.,Vabet Ridge 775,20181356892,73029814,5622511,,,,
-Ross Stores Inc,Hael View 541,10324619127,08451493,933453625,,,,
-Old Republic International Corp.,Ferku Mill 820,20491842418,37696094,955172466,,,,
-Dynegy Inc.,Umluk Glen 822,20961349892,69506545,926542132,,,,
-The AES Corporation,Hudum Way 340,10827591512,58177588,952814252,,,,
-Western Gas Resources Inc,Sezub Heights 809,20459643468,15090609,929776732,,,,
-Puget Energy Inc.,Safhen Grove 201,10992274213,89145141,3844487,,,,
-Avaya Inc.,Cotkop Street 706,10132138867,33341902,5227499,,,,
-The Goodyear Tire & Rubber Company,Eguva Extension 742,20893834473,51576088,954592479,,,,
-Dial Corporation,Sicko Manor 530,20364984382,83884038,2711921,,,,
-Phoenix Companies Inc,Lagefo Ridge 481,10115967923,52889839,3259864,,,,
-SCI Systems Onc.,Nutsu Boulevard 124,20513158963,97804708,932856459,,,,
-IDT Corporation,Bunnek Center 616,10727972768,88018627,994657531,,,,
-GreenPoint Financial Corp.,Ediete Boulevard 559,10923772763,96979437,939817988,,,,
-Compass Bancshares Inc,Lohti Parkway 465,20984623725,33504855,6886392,,,,
-Premcor Inc.,Widip Highway 021,20427854573,81374906,3812373,,,,
-"Applied Industrial Technologies, Inc.",Owepi Parkway 204,10852266798,58315700,3135816,,,,
-Potlatch Corp,Rigida Pass 404,10279718293,29306486,6753761,,,,
-"American Axle & Manufacturing Holdings, Inc.",Tamnob Heights 404,10819961487,79678532,914429651,,,,
-CSX Corp.,Wozo Mill 212,10382551976,59618670,2262668,,,,
-ARAMARK Corporation,Tegrod Pike 869,20884113215,67059255,5738696,,,,
-Trans World Entertainment Corp.,Zopor River 032,10944814477,59219141,4462969,,,,
-L-3 Communications Holdings Inc.,Vicga Parkway 121,10179963918,40978692,5141912,,,,
-DQE Inc.,Luku Center 259,10774511169,53647679,5515182,,,,
-United Auto Group Inc,Recew Square 105,20716588441,77485820,2521588,,,,
-ABM Industries Incorporated,Nisgup Drive 937,20637948394,68149718,923665263,,,,
-Ross Stores Inc,Beuto Park 320,10452265445,58094591,977953292,,,,
-K-Mart Corp.,Cehigu Park 284,20957494755,55652123,948394148,,,,
-Newmont Mining Corporation,Pavub Avenue 224,10535429358,47575684,2767812,,,,
-Quest Diagnostics Inc.,Soci River 612,10231532351,37595603,2828976,,,,
-"Adams Resources & Energy, Inc.",Ifiv Path 821,10879546617,46631055,952639774,,,,
-"Merck & Co., Inc.",Zuviri Grove 108,10136247547,57659934,6724147,,,,
-Sabre Holdings Corp,Vuur Mill 027,20954873233,04155092,4324729,,,,
-Whirlpool Corporation,Fekik Pike 278,20824985549,43508985,971286588,,,,
-OGE Energy Corp,Zejse Plaza 502,20196897575,66207140,3118471,,,,
-Wendy's International Inc,Zesak Plaza 980,10762314171,10195863,4265355,,,,
-United Stationers Inc,Fepac Glen 400,10659235157,02248521,4156359,,,,
-Weatherford International Inc,Lufnaz Place 316,10851597278,86917770,992718996,,,,
-Raytheon Company,Hekun View 934,20577564213,96176831,6884548,,,,
-TXU Corp,Suzda Ridge 593,10815438626,77973217,947289419,,,,
-Pioneer-Standard Electronics Inc.,Puvhuj Junction 298,10423783189,15622796,2926439,,,,
-Comfort Systems USA Inc.,Bazav River 326,20976388614,26769443,2114838,,,,
-Ecolab Inc.,Agetep Circle 182,20986925674,02275569,5359715,,,,
-"Allied Waste Industries, Inc.",Azulig Place 127,20938814692,17363604,988771847,,,,
-Watsco Inc,Odmi Avenue 596,10974611448,92400807,6362886,,,,
-IMS Health Inc.,Daju Place 247,10451113223,29437979,974677941,,,,
-Banta Corporation,Honaf Square 914,10811178827,10250499,5973636,,,,
-Silgan Holdings Inc.,Bundus Place 448,10553497164,90903013,2143974,,,,
-Dynegy Inc.,Vojal Key 248,20361251267,22806774,954446119,,,,
-"AutoNation, Inc.",Cuila Street 749,10272596199,84081297,974857367,,,,
-Saks Inc,Baowa Plaza 726,20247598694,19832291,4614795,,,,
-Questar Corp,Ebraw View 380,10673295985,51131125,3796475,,,,
-Sabre Holdings Corp,Kelka Heights 659,20864435634,31219452,3595244,,,,
-Teleflex Incorporated,Betju Avenue 395,10363173648,15988366,952825185,,,,
-Lithia Motors Inc.,Riji Road 095,10184181735,38624234,924953156,,,,
-Ross Stores Inc,Ujsa Boulevard 186,20221651345,16423507,6539114,,,,
-Ceridian Corp.,Guim Square 984,20123131138,71475387,4898658,,,,
-PPG Industries Inc,Penwo Terrace 007,10688383726,03066547,947889874,,,,
-Foamex International Inc,Ijus Ridge 709,20174437783,93882553,914536961,,,,
-Alcoa Inc.,Hacpon Avenue 138,10585321445,35999552,969887396,,,,
-Allegheny Technologies Incorporated,Amgok Square 758,20874916431,57015103,4885697,,,,
-UnitedHealth Group Incorporated,Pujo Lane 196,10187591566,72938123,982785887,,,,
-Cummins Inc.,Biemu Heights 747,10187134754,91070858,5195167,,,,
-Household International Corp.,Citaf Road 625,10766228876,81527204,927577157,,,,
-UST Inc,Doclok Glen 378,20363312139,20259851,952459364,,,,
-"D&K Healthcare Resources, Inc.",Kuwuc Turnpike 415,20158587518,73381397,947265846,,,,
-"Autoliv, Inc.",Bupri Mill 642,20763889343,01571301,3884347,,,,
-Felcor Lodging Trust Inc.,Ceccek Center 201,20452761599,68077559,984463241,,,,
-The Clorox Co.,Durib Point 112,20151741178,22574162,975634689,,,,
-Mandalay Resort Group,Genvo View 877,10937493378,77301253,977719958,,,,
-Honeywell International Inc.,Wetog Square 073,10874296393,22647591,5419647,,,,
-WPS Resources Corporation,Ibbe Pike 534,10756454748,45994623,6288885,,,,
-International Multifoods Corporation,Uhaku Mill 088,10774624727,75314867,6791175,,,,
-Family Dollar Stores Inc.,Rinre Turnpike 670,20143949275,47404181,3417313,,,,
-"Applied Materials, Inc.",Hufku Extension 232,20142474938,38011470,997745471,,,,
-Norfolk Southern Corporation,Gaaza Extension 760,20496183233,81224163,999696162,,,,
-PolyOne Corp,Nezot Key 595,10656976682,09418710,4769329,,,,
-Dow Chemical Company,Oteet Place 485,10276665835,34692164,947861949,,,,
-Trans World Entertainment Corp.,Losow Manor 873,10766353362,27787941,929523395,,,,
-Hughes Supply Inc.,Labu Point 635,10111792744,32034978,4463788,,,,
-Wachovia Corporation,Vobre Junction 988,10346186862,28901728,974688183,,,,
-AMERCO,Kelabi Highway 622,10194311497,57999274,973965773,,,,
-United Parcel Service Inc,Muov Extension 819,10694569874,95477726,947449968,,,,
-Baker Hughes Incorporated,Ihoezo Extension 085,10528341412,61128321,958173774,,,,
-Sysco Corp,Hianu View 996,10243847147,70466746,999833936,,,,
-ALLTEL Corporation,Elozen Manor 949,20517367974,32661824,4283114,,,,
-Halliburton Co.,Merkob Turnpike 123,10498285182,22448227,938521528,,,,
-Williams Sonoma Inc,Afevep Center 790,20958815371,97548488,993335978,,,,
-Smith International Inc,Usibo Key 148,10878436788,44109791,3542925,,,,
-Hollywood Entertainment Corp.,Kueh Pass 027,10468535535,86012558,4949189,,,,
-Hub Group Inc.,Hoje Court 914,10538286533,69141402,2847561,,,,
-The Bear Stearns Companies Inc.,Zizu Place 357,20995621494,75435567,5911428,,,,
-Value City Department Stores Inc,Gehbut Glen 076,10184889626,37157284,942192227,,,,
-IMC Global Inc.,Vuzat Drive 871,10547389812,46341329,3594671,,,,
-"Conectiv, Inc",Zataz Highway 298,20872176435,93996094,3766917,,,,
-Equity Office Properties Trust,Lero Highway 927,10122455285,99194118,4264659,,,,
-Tenet Healthcare Corporation,Vuca Extension 297,20748362394,92061008,929198426,,,,
-UST Inc,Erwas Circle 539,20837733472,03744441,928945947,,,,
-Colgate-Palmolive Co.,Vammum Trail 943,10734531283,05119853,978165222,,,,
-Ameren Corporation,Cabce Circle 592,20995245481,31156668,3714281,,,,
-Novellus Systems Inc,Furgun Point 680,10892829563,96969452,987693716,,,,
-Solectron Corp,Bedfo Road 039,10814979641,20884875,4788837,,,,
-NorthWestern Corporation,Koghav Pass 469,20179779142,00320775,4915626,,,,
-Pepsi Bottling Group Inc.,Levlu Path 459,10778499271,13156712,946598655,,,,
-First Data Corp.,Riji River 854,10842844819,89776220,926856774,,,,
-Wisconsin Energy Corporation,Evilo Glen 064,10351546817,08096572,985422967,,,,
-US Oncology Inc,Hupi Heights 611,10373216754,65845353,967761526,,,,
-EGL Inc.,Nevmoj Highway 561,20519888775,23169015,5775528,,,,
-Nordstrom Inc,Fufho Park 967,10547681764,31727011,4244155,,,,
-Sabre Holdings Corp,Sogvik Boulevard 224,10394717146,69050611,5529192,,,,
-"The Bank of New York Company, Inc.",Megsa Trail 781,10195277348,12840214,6665917,,,,
-Cincinnati Financial Corp.,Femol Place 151,10765935893,47205294,6341149,,,,
-Allegheny Technologies Incorporated,Koho View 972,10721351173,17953467,978934186,,,,
-ACT Manufacturing Inc.,Merun Mill 174,10129146655,81652550,951156853,,,,
-Teleflex Incorporated,Kajre Center 053,20324239655,75265223,5635582,,,,
-Weyerhauser Company,Neha Pass 042,20157715452,05623499,927438697,,,,
-McCormick & Company Incorporated,Uzce Circle 182,20457783145,43015698,5782563,,,,
-"Beverly Enterprises, Inc.",Bijwu Terrace 833,10567987226,61108901,2949887,,,,
-H&R Block Inc.,Ubuwup Junction 650,20742148417,08710761,3424941,,,,
-Safeco Corp,Giko Point 378,20759837197,40080968,996129983,,,,
-Wyndham International Inc,Peig Key 184,10652441868,21426417,6174436,,,,
-Alleghany Corporation,Edekuk Center 172,10494622438,80594103,6544344,,,,
-Flowers Foods Inc.,Viger Ridge 368,10562969549,55961391,972526382,,,,
-U.S. Industries Inc.,Zepeg Turnpike 312,10357225216,82848930,5974257,,,,
-Lennox International Inc.,Cola Drive 010,20881669133,86279810,3352616,,,,
-Maxtor Corporation,Birji Square 609,10948465545,36255149,5418864,,,,
-PPG Industries Inc,Wada Square 576,10699849689,12810228,965648856,,,,
-Adobe Systems Incorporated,Inwik River 030,20231132322,75210599,939815676,,,,
-Masco Corporation,Wopu Ridge 697,10861616245,50851058,2537291,,,,
-Sprint Corp.,Futbu Boulevard 707,20373467177,99951547,2155913,,,,
-"Anheuser-Busch Companies, Inc.",Sadud Path 434,10522188445,91672721,4233494,,,,
-Xerox Corp,Ozuced Way 709,20976462796,91030472,4148254,,,,
-Molex Incorporated,Pilre Drive 310,20961411472,12460693,6673188,,,,
-General Dynamics Corporation,Vuvut Lane 593,20352578566,55135043,944683426,,,,
-Allegheny Technologies Incorporated,Kegik Mill 539,10796958415,41182423,3118264,,,,
-Lincoln National Corporation,Alpag River 350,10276223687,80715584,3961589,,,,
-Longs Drug Stores Corporation,Lava Street 331,10823359748,49861674,4348141,,,,
-Worthington Industries Inc,Gegvec Loop 693,10726228535,77180801,956528618,,,,
-"Avon Products, Inc.",Cewo Terrace 841,10922739347,76167596,914921467,,,,
-Snap-On Inc,Hurbu Trail 128,20663353974,59718083,6641828,,,,
-Kennametal Inc.,Umehi Turnpike 039,10198891567,36752837,993171498,,,,
-Park Place Entertainment Corp,Jevsu Pass 721,10225145735,81146408,6782647,,,,
-Norfolk Southern Corporation,Ugiwal Parkway 581,20883672837,43414584,4844554,,,,
-Tech Data Corporation,Roned Heights 683,10924786159,63153337,2139682,,,,
-Carlisle Cos. Inc.,Bushe Plaza 254,10166773564,41068304,4913349,,,,
-Charter Communications Inc.,Pigid Turnpike 162,20659847725,25871443,2332274,,,,
-First Data Corp.,Busi Road 436,10814621455,12454106,915522912,,,,
-Maytag Corporation,Ekvif Mill 099,10382297474,71731522,2591348,,,,
-Starwood Hotels & Resorts Worldwide Inc,Acezal Square 029,10358129674,19979181,956726147,,,,
-First Tennessee National Corp.,Todce Park 637,10597936951,03904149,954684725,,,,
-Community Health Systems Inc.,Himmuv Point 969,10989898693,14335449,6739225,,,,
-Viacom Inc,Wifra Parkway 874,10387448366,20120377,969626719,,,,
-Pier 1 Imports Inc.,Tebunu Square 184,10239332588,77716301,939676947,,,,
-Atmos Energy Corporation,Ralov Highway 979,20612258212,77711650,967441735,,,,
-Provident Financial Group,Cecre River 022,20735445183,72855681,977216637,,,,
-BJ Services Company,Lusnan Lane 295,10264737774,97448625,977562895,,,,
-Astoria Financial Corporation,Atwet Terrace 291,20962653128,56556350,3119711,,,,
-Raytheon Company,Ovhom River 885,20392532649,77923677,946681632,,,,
-Pharmacia Corp,Toavi Highway 180,20136736244,27828435,927478646,,,,
-Fleming Companies Inc.,Ruri Turnpike 058,20912461247,88056451,2395926,,,,
-Footstar Inc.,Volsih View 278,10375593547,61783587,978758439,,,,
-Kennametal Inc.,Vospe Center 637,10157249586,88744386,946692772,,,,
-Pantry Inc,Kenzo Highway 514,10695977951,09281258,4124417,,,,
-"Broadwing, Inc.",Filkij Loop 956,10343614937,38871287,4819975,,,,
-"Allergan, Inc.",Lobu Parkway 689,20462659634,13555617,2781925,,,,
-"Big Lots, Inc.",Urwa Glen 553,20372785537,67500107,2455256,,,,
-Fortune Brands Inc.,Dagaz View 483,10899681828,13832095,2139313,,,,
-Dun & Bradstreet Inc.,Sieke Avenue 334,20144439944,78487263,4137527,,,,
-Reader's Digest Association Inc.,Dezpa Mill 960,10538867692,64230806,925894172,,,,
-Tenet Healthcare Corporation,Ocatud Manor 446,20663283126,09942235,995143766,,,,
-Wellpoint Health Networks Inc,Ujidi River 667,20732236227,57913859,6471325,,,,
-General Electric Company,Ciiz Way 280,10944674266,41956497,961753966,,,,
-Safeco Corp,Feaz Key 854,10898569146,35099956,914152238,,,,
-JDS Uniphase Corp.,Zalpo Pass 952,10884321647,61007313,2991482,,,,
-Primedia Inc,Sikufa Grove 746,10851977736,88869831,6697838,,,,
-Coca-Cola Co.,Nokec Key 325,20283772545,28943922,3511356,,,,
-Shopko Stores Inc,Vegwi Loop 341,10469292791,81144927,915543896,,,,
-Saks Inc,Vagik Key 970,10684894912,09716993,6793299,,,,
-Honeywell International Inc.,Usgo Manor 149,10173975391,43744371,946166448,,,,
-Packaging Corp. of America,Ilalu Junction 862,10229444938,83803116,927566441,,,,
-American Power Conversion Corporation,Tetif Glen 911,10511161693,19139249,3359144,,,,
-International Flavors & Fragrances Inc.,Egozev Extension 962,20296314784,41782223,6623964,,,,
-Berkshire Hathaway Inc.,Gacemi Path 758,10394785179,21119355,4183846,,,,
-Unocal Corporation,Buprad Boulevard 300,20657723998,86056220,3517563,,,,
-Metris Companies Inc,Nuwno Terrace 067,20324375159,27889108,966935495,,,,
-"Burlington Industries, Inc.",Valki Center 051,10578868494,36554434,4953853,,,,
-Merrill Lynch & Co. Inc.,Eful Plaza 915,20184773419,01871493,4823141,,,,
-KeyCorp,Idoefu Extension 947,20157844455,70939365,5979535,,,,
-National Fuel Gas Company,Lerhav Ridge 090,10868319982,05042845,945949856,,,,
-Imperial Sugar Company,Keztab Street 577,20872129651,09986757,911455416,,,,
-Triad Hospitals Inc,Amaji Loop 785,20353954953,90515700,955659213,,,,
-Furniture Brands International Inc.,Vile Highway 873,20576945438,61463349,988992736,,,,
-Polo Ralph Lauren Corp,Ezahos Way 442,20134392292,57176714,2758642,,,,
-Alcoa Inc.,Ebha View 848,20199682881,06987692,4469321,,,,
-"AdvancePCS, Inc.",Ruzo Heights 990,20828368441,25216098,3648452,,,,
-Alcoa Inc.,Saci Court 326,10473527842,39490420,955468974,,,,
-"Affiliated Computer Services, Inc.",Maza Road 750,10718379541,26780472,2647917,,,,
-Terex Corp,Izdo Highway 722,10127139957,92426457,914198357,,,,
-"Merck & Co., Inc.",Vagku Parkway 874,10579966145,29114120,934723562,,,,
-Hewlett-Packard Company,Moku Boulevard 658,20438151449,95875329,951767669,,,,
-Lyondell Chemical Company,Goljen Pass 133,20678968195,91082122,5589572,,,,
-E.W. Scripps Company,Kofit Circle 715,10114874731,64448421,4487939,,,,
-D.R. Horton Inc.,Vetha Park 206,10859813967,97603202,6773486,,,,
-Kindred Healthcare Inc.,Ohja Grove 946,20851988746,59372625,928943148,,,,
-Federal Mogul Corp.,Vutef Path 575,10662516211,44044485,3997721,,,,
-Wachovia Corporation,Suvew Court 416,10296172926,35883288,919196373,,,,
-Adelphia Communications Corporation,Cecob Way 153,20262364164,01009675,999626628,,,,
-Microsoft Corporation,Gukab Manor 677,20823571312,36828234,4619688,,,,
-Pioneer-Standard Electronics Inc.,Durbok Street 463,10372694661,18214764,967526168,,,,
-PSS World Medical Inc,Dadufe Pass 159,20734594812,16115986,967386248,,,,
-Newell Rubbermaid Inc,Aziha Glen 421,20637361811,92709345,2625886,,,,
-Southwest Airlines Co,Pobuf Loop 620,10743163553,61896032,964265154,,,,
-Southwest Gas Corp,Hokpi Lane 121,20118566739,06365114,4548787,,,,
-Caremark Rx Inc.,Izfat Center 811,20581462939,30602949,987564148,,,,
-Trigon Healthcare Inc.,Sirlog Way 473,10214567491,86317213,936666861,,,,
-Cincinnati Financial Corp.,Nocov River 172,10327797297,10612375,932219218,,,,
-Georgia-Pacific Corporation,Posar Loop 424,10498238598,31112868,5741521,,,,
-Siebel Systems Inc,Wowude River 194,10497515932,99556117,925811324,,,,
-NorthWestern Corporation,Irlir Junction 825,20453729456,02483161,969385266,,,,
-Flowers Foods Inc.,Morref Center 184,20654492145,78958779,939929971,,,,
-Sovereign Bancorp Inc.,Mimke Avenue 496,10598218824,73574617,983578361,,,,
-Amerada Hess Corporation,Jadfe Trail 192,10958569791,83926575,998322841,,,,
-International Flavors & Fragrances Inc.,Niju Parkway 753,20223156261,25208840,2177721,,,,
-Stanley Works,Zimazi Trail 368,20934338264,87014967,984295115,,,,
-SBC Communications Inc,Holup Avenue 504,10528899156,84974574,999643869,,,,
-KPMG Consulting Inc.,Defut Boulevard 528,20591728818,88295503,917419613,,,,
-Unisource Energy Corp,Sucuj Court 974,10775698743,60349353,3691695,,,,
-North Fork Bancorporation Inc,Areke Ridge 457,20735112339,65696450,3713327,,,,
-Zale Corporation,Vinsu Pass 195,10773128426,28702665,6671977,,,,
-Lear Corporation,Demew Glen 024,20838132728,48613572,954693926,,,,
-Capital One Financial Corp.,Najav Key 405,10928972533,42074927,2115189,,,,
-Anadarko Petroleum Corporation,Titep Plaza 291,20441396596,11825549,5529463,,,,
-Honeywell International Inc.,Nizci Heights 636,10838186948,21512280,944397361,,,,
-Humana Inc.,Nuvfu Place 921,20583242779,67727680,5818511,,,,
-Mercury General Corporation,Burva Point 724,20627931888,95580427,981641463,,,,
-Foamex International Inc,Dojpul River 832,10616192997,75697743,954264235,,,,
-H&R Block Inc.,Hikir Court 719,10856735135,35682125,2264668,,,,
-Markel Corporation,Owwom Ridge 977,10329646748,83270813,4741486,,,,
+nombre, direccion,ruc,representante_dni,telefono
+"Albertson's, Inc.",Elah Pass 306,10193937868,20362733,993994514
+Baxter International Inc.,Kelo Avenue 445,20173114113,92813372,4517916
+National Semiconductor Corporation,Neru River 559,20591232934,99606006,3556625
+"Avon Products, Inc.",Zeca Street 527,20428488614,81257061,952799377
+Cooper Cameron Corp.,Mejuh Heights 192,10611739211,95539522,972294373
+"Arrow Electronics, Inc.",Bujaha Place 851,10946817793,89719232,983895985
+Manor Care Inc.,Kilzov Point 127,10124226756,36741205,923224964
+National Fuel Gas Company,Rosre View 246,10336286111,05721527,3367893
+International Business Machines Corp.,Omza Mill 090,20142377355,30984708,3358211
+"BJ's Wholesale Club, Inc.",Vuje Key 153,10947718965,95843255,2461951
+Lucent Technologies Inc.,Vefegi Plaza 446,20874979821,68677409,3116484
+"Avon Products, Inc.",Wara Path 327,10749669668,16742674,998966718
+Mandalay Resort Group,Zeznas Turnpike 849,10384533458,91271580,4634734
+"Pep Boys Manny, Moe & Jack",Afidas Manor 502,20949245194,54406882,998488261
+BJ Services Company,Ruov Point 772,10862698164,65934176,4261832
+Standard Pacific Corp.,Sapir Parkway 514,20324678877,68512430,2958151
+Foot Locker Inc,Cosa Way 461,10322617623,72106731,3592193
+United Parcel Service Inc,Jucoh Pike 488,10251427813,81011732,2794465
+Nordstrom Inc,Abaaji Highway 321,20141186135,61569878,5936226
+TRW Inc,Uzolu Street 762,10542636167,56995465,2762444
+Equitable Resources Inc.,Sudhel Key 483,20489626726,42794553,944883556
+PETsMART Inc,Kocima Point 457,20294225981,97861544,5452942
+AmSouth Bancorp.,Ciphod Center 383,20675626637,24386478,2763387
+State Street Corp.,Wedugi Way 970,20873597589,14059738,924341269
+Lehman Brothers Holdings Inc.,Ifiti Center 066,10313573988,57981980,966737241
+Mariner Health Care Inc.,Cozuse Center 224,10877266146,95870669,945337761
+Pactiv Corp,Koparu Trail 259,10226923289,96995726,5256134
+General Dynamics Corporation,Rako Mill 545,10176889215,64735861,996722182
+Household International Corp.,Sogeg Path 722,20312337792,79786277,6594112
+Kemet Corp.,Vanzu Manor 131,20312728622,76654856,6848788
+Clear Channel Communications Inc.,Gadu Manor 620,10246129983,69804008,4836847
+Humana Inc.,Ciluce Square 745,20221517986,03063103,995163921
+Carpenter Technology Corp.,Zuci Road 335,10379951534,78171304,915627617
+United Auto Group Inc,Vedu Loop 274,10326256539,54909367,929146498
+Southwest Airlines Co,Lito Terrace 423,10769988893,82457579,936791199
+UGI Corporation,Rejope Boulevard 882,20973112365,98544035,4363548
+Sun Microsystems Inc.,Cuic Pike 293,10685878984,32785529,5927127
+MDU Resources Group Inc.,Hisuj Heights 620,20363516585,04554962,2519683
+Value City Department Stores Inc,Pucru Terrace 314,20192399423,73889021,983394457
+Tecumseh Products Company,Taztog Highway 133,10523632214,43883805,918539884
+Kimberly-Clark Corporation,Utoto Lane 128,20838887552,22316492,944389477
+"American Electric Power Company, Inc.",Nujti Square 569,20345396829,31932274,958713686
+Scholastic Corp,Dari Trail 644,10629452368,98931778,6493989
+Goodrich Corporation,Evfa Terrace 958,20764631587,26321062,929927432
+Consolidated Edison Inc.,Leseb Place 728,20964854457,32453039,994353219
+Cabot Corp,Amevu Avenue 706,10297619722,77666483,954234311
+Medtronic Inc.,Kejo Turnpike 280,20951773613,59913279,989771958
+Triad Hospitals Inc,Uzijuk Avenue 251,10869839399,98833229,998856664
+Eaton Corporation,Pagom Mill 585,10344111429,84885394,2622436
+Corn Products International Inc.,Etsis Place 960,10647548645,56832510,4646382
+Jones Apparel Group Inc.,Evima Lane 533,10729623315,69116927,5676214
+General Cable Corporation,Hashaj Pass 705,10245887664,29201041,929723276
+Greif Bros. Corporation,Jujupo Turnpike 831,20887381926,42842139,4121767
+Kohl's Corp.,Gired River 341,10695487451,16981772,4786667
+HCA Inc.,Boha Key 002,20531851465,66721691,2951428
+Mail-Well Inc.,Egeig Ridge 175,10833452854,50424477,954651997
+Estee Lauder Companies Inc.,Wofipu Court 434,10728866692,59122062,4331939
+Cincinnati Financial Corp.,Homu Way 228,20333335361,82025773,966333628
+Mellon Financial Corporation,Pife Mill 143,20532657438,13643552,6331368
+Genzyme Corporation,Osiis Key 499,20439882279,08634306,947579821
+Newell Rubbermaid Inc,Awvel Manor 399,10878283965,41334578,945833218
+Zions Bancorporation,Roif Road 735,10777322455,45964062,5241722
+"Big Lots, Inc.",Pepjiv Avenue 447,20636614821,59490672,6994976
+Tellabs Inc.,Weovi Road 692,10123814681,52127903,4578913
+Worthington Industries Inc,Cilim River 081,10644391718,22794153,929654969
+Williams Companies Inc,Hafobu Way 203,10536512313,21364201,946996949
+Target Corp.,Ibaice Street 344,20345522145,41493948,6367318
+DPL Inc.,Supoz Turnpike 644,10287396559,24345074,5476591
+CSX Corp.,Gial Glen 915,10263923276,38857488,3223885
+Lands' End Inc.,Akejab Trail 523,20752553181,79233001,5372343
+Unisource Energy Corp,Ebnew Pike 251,20368672758,78999689,931737844
+Pioneer-Standard Electronics Inc.,Detul Ridge 472,10598173455,43904381,937273114
+Phelps Dodge Corp.,Togro Circle 223,10636245781,51555682,964994265
+Fortune Brands Inc.,Ratu River 271,10184336687,63825738,942529317
+Precision Castparts Corp,Neofu Path 159,20554495967,91259529,959945258
+AMERCO,Avener Plaza 081,20765483913,02100042,5399747
+Unified Western Grocers Inc,Agpot View 096,10324936338,31830598,942791631
+North Fork Bancorporation Inc,Jigub View 962,20463169947,91346827,954835745
+Whirlpool Corporation,Pugdez Manor 878,10292563637,58840331,987863946
+Apartment Investment and Management Company,Razvez Pike 215,20691594835,83646308,2393327
+"AutoZone, Inc.",Kana Extension 984,20258216341,04595889,972372923
+Tenneco Automotive Inc.,Sihabo Terrace 849,20264274534,82905253,945436756
+PNC Financial Services Group Inc.,Upak Key 733,20725781387,47786912,5559824
+Nucor Corp,Dugeze Pike 856,20746182428,11253594,962379951
+Cooper Tire & Rubber Co.,Foob Pass 436,20561771961,83716714,4175827
+Expeditors International of Washington Inc.,Ofemo Street 217,20563869717,59026449,921518642
+EMC Corporation,Tofro Highway 664,20765488391,14003990,5316654
+USA Interactive,Kokot Street 126,20291758496,88326552,982524225
+Consolidated Edison Inc.,Imazaw Lane 925,20174815339,93686581,6466985
+Polo Ralph Lauren Corp,Gorsav Mill 988,20642299125,58908293,995697553
+"Cadence Design Systems, Inc.",Ahso Center 438,20466572417,94624038,989149644
+Temple-Inland Inc,Ofona Street 383,20853738518,49641076,2756934
+Cabot Corp,Piiw Drive 375,20767664646,36852459,977945546
+Novellus Systems Inc,Pakaz View 821,10256484279,78685379,944929889
+Scholastic Corp,Vagi Center 952,20813812372,01712896,983478381
+OM Group Inc,Sewa Way 798,10485333822,86575471,5727574
+Regions Financial Corp.,Hewef Turnpike 180,10853451117,72756665,6398827
+Lucent Technologies Inc.,Vaeb Square 323,20144829394,61863743,932287722
+Fleetwood Enterprises Inc.,Sutum Square 232,20196113135,93174745,993637252
+Deluxe Corporation,Wamih Terrace 398,20241697329,30041838,3911149
+Outback Steakhouse Inc.,Lojle View 493,10684191286,73847681,921188692
+Astoria Financial Corporation,Piba Heights 968,20732351549,94461096,961242665
+Cytec Industries Inc.,Buki Avenue 919,20434789716,97262294,6355427
+National Service Industries Inc,Gogvu View 603,20621263998,22679114,965869486
+Value City Department Stores Inc,Enota Trail 522,10543587116,53386032,911328872
+Raytheon Company,Kektij Pike 873,20699814882,37341244,993189533
+SLM Corporation,Wuwah Highway 089,20625313242,15573911,4697397
+AMERCO,Puffet Grove 215,20917842684,10271561,4546446
+Rockwell Automation Inc,Iwoih Ridge 399,10194168721,25127053,936132569
+"Pep Boys Manny, Moe & Jack",Viti Circle 627,10641696446,70310085,6495186
+National Rural Utilities Cooperative Finance Corporation,Safev Junction 729,20269976261,64610554,963478889
+Dollar General Corporation,Fihas Square 553,10972968741,15071456,989422848
+The Men's Wearhouse Inc.,Susi Center 697,20421721576,47887300,5179161
+Scientific-Atlanta Inc,Huhin Mill 654,10649473841,20439220,6741577
+GenCorp Inc.,Virpa Terrace 133,20917392991,85447290,4171882
+Costco Wholesale Corp.,Tapcem Place 350,10143516856,98435149,2729492
+"Dreyer's Grand Ice Cream, Inc.",Kagwo View 458,10133165763,95156199,929692771
+PepsiCo Inc.,Fiep Ridge 674,20959868132,43543557,914827534
+Conseco Inc.,Nevac Ridge 336,10794862941,01167903,923768653
+"Avon Products, Inc.",Bidi Road 464,20721911961,30650068,5442116
+Primedia Inc,Ihukew Plaza 256,20547293752,17372400,4527219
+General Cable Corporation,Bultu Boulevard 797,10116472472,89807831,926188586
+Weis Markets Inc.,Lumu Highway 626,10725378491,23409465,995868751
+Maxim Integrated Products Inc.,Kihwuc Key 588,20956957272,72546278,958939215
+Gemstar-TV Guide International Inc.,Zozig Park 042,20898186396,54774834,5184952
+"Alaska Air Group, Inc.",Naviw Boulevard 243,20449957969,66272936,916333487
+CellStar Corp.,Unofa Square 886,10423156693,59920468,4636771
+Rock-Tenn Co,Tuvoj Trail 531,20577556814,34772771,2553285
+Georgia Gulf Corporation,Enir Turnpike 357,20988927983,15613033,5323364
+Comverse Technology Inc.,Immem Path 724,10258498959,22097799,925832299
+Dell Computer Corporation,Umcun Center 748,10575263584,37490067,917886672
+SunTrust Banks Inc,Zukze Key 786,10843844994,89823824,5386471
+Federal Express Corp.,Mawar Parkway 956,20337373746,89853192,6296546
+Energizer Holdings Inc.,Kupuv Pass 240,10894857121,41250712,986866837
+"Citigroup, Inc",Nejhu Heights 307,10623917879,26831796,4572191
+MeadWestvaco Corporation,Sillun Lane 072,10248858633,96585023,921744219
+Caterpillar Inc.,Okreb Pass 233,20467877263,96702952,993551427
+CNF Inc.,Ullal Drive 210,20292229734,83218541,982342526
+Rockwell Automation Inc,Bafad Drive 541,10171771487,75447562,6112334
+IKON Office Solutions Inc.,Siles River 782,10629326937,45832852,3313612
+Southern Union Company,Sopu Place 471,20259451917,03681169,6543327
+Exide Technologies,Zewdak Pike 053,10516122878,88889444,994283228
+Casey's General Stores Inc.,Gutu Ridge 386,20262466482,62341116,3712187
+Nvidia Corp,Efovuj Court 063,20494344626,28716630,988321482
+Charter Communications Inc.,Lukes Square 299,20114313963,33732860,976973968
+Carlisle Cos. Inc.,Hicga Extension 432,10137484213,82346705,957972624
+Popular Inc,Akuni Path 661,20761527981,18642193,4132198
+Flowers Foods Inc.,Pejpon Loop 046,10381871447,92496558,2672913
+Cardinal Health Inc.,Bapfan View 886,10293526979,81908691,983816222
+The Men's Wearhouse Inc.,Onne Plaza 264,20957799515,91390968,993118965
+Integrated Electrical Services Inc.,Wupapu Junction 877,10131359163,70254189,6999466
+"Best Buy Co., Inc.",Zisew Junction 208,10797487593,97240490,2914413
+Golden West Financial Corporation,Azoki View 620,20674946789,78704702,999148346
+The Lubrizol Corporation,Donud Mill 681,20686289473,13441511,995147268
+Sears Roebuck & Co,Novcod Loop 578,10573315424,29163103,2518682
+Kohl's Corp.,Nomem Plaza 821,10199761775,36695255,988273336
+Stilwell Financial Inc,Jeho Place 380,10688459294,49813378,3259453
+"Advance Auto Parts, Inc.",Imrod Center 465,10476738485,24284271,5677319
+Nabors Industries Inc,Wupsig Circle 554,10632174175,60792939,978221726
+GreenPoint Financial Corp.,Cafduc Turnpike 091,10466456399,09930577,976563355
+FirstEnergy Corp.,Turo Trail 733,10835724478,50203477,979466765
+Questar Corp,Opso Pass 430,10968364146,03073302,3218153
+Yum Brands Inc.,Feot Turnpike 850,10578416888,46545096,4981644
+American Greetings Corporation,Fafah Circle 365,20549349875,85121456,6793191
+Ciena Corp.,Zeke Manor 106,10618781635,78859386,3924635
+ARAMARK Corporation,Hapono Manor 390,20741725792,26784416,943621937
+Safeco Corp,Fadaw Point 926,10756332126,92350504,929917412
+Riverwood Holding Inc.,Emsor River 812,20499894192,11666700,6857228
+Bristol-Myers Squibb Company,Ubehu Terrace 582,20566291716,07829426,929383863
+Hughes Supply Inc.,Nesoh Ridge 709,10584992948,08761173,989677269
+"The Bank of New York Company, Inc.",Tujaw Way 037,20756715231,60364623,5318674
+Casey's General Stores Inc.,Tameba Extension 003,10657317485,22392442,6691796
+NSTAR,Rowew View 774,20944821548,55176227,4623142
+MetLife Inc.,Nojzeh Parkway 597,10918275416,38060179,935178599
+First American Financial Corp.,Melco View 827,20353554124,82349085,6493411
+Nortek Inc,Jakhir Trail 462,20377819245,21300998,945579978
+Waste Management Inc,Lomo Pass 757,10992116465,55422654,6314635
+Lithia Motors Inc.,Telo Plaza 798,20277185324,20036999,5522461
+US Oncology Inc,Poka Key 889,10978287147,05890068,5617657
+Equity Office Properties Trust,Devpet Point 421,20375384515,94737191,4613146
+"The Alpine Group, Inc.",Bevmo Extension 083,20797869759,87704380,998449529
+Sara Lee Corp,Etiow Heights 114,10678253928,61901691,982277523
+Universal Health Services Inc,Benca Glen 640,10672768782,33665308,961514527
+Campbell Soup Co.,Telse Loop 450,10244354356,66566569,2677691
+SPX Corp,Kufop Mill 467,10943423173,71677481,6595398
+Winn Dixie Stores Inc,Roeri Point 523,10729347442,79354849,3177635
+Express Scripts Inc.,Vurmab Center 336,10954971647,19336811,983127296
+The LTV Corporation,Natzo Turnpike 026,20745618425,55044250,943172862
+KeyCorp,Selaj Heights 823,20337536697,94985724,4723214
+CenturyTel Inc.,Cumu Circle 290,10465557999,80684496,4991157
+Williams Companies Inc,Uktac Park 306,20722216515,59974097,6147995
+Apache Corporation,Cewmal Circle 839,10721297816,56009788,967254895
+Maxim Integrated Products Inc.,Tagu Court 303,10266638252,19479496,919129747
+Harris Corp.,Kiuc Point 077,10388547244,98497822,2652366
+North Fork Bancorporation Inc,Nupze View 599,10137858412,21117580,936289668
+Winn Dixie Stores Inc,Rofuh Center 759,20172924184,07120398,954525975
+Ryder System Inc,Mudem River 543,20273648252,13789112,3724752
+Jacobs Engineering Group Inc.,Ripit Parkway 623,10343661188,11277990,3111317
+Kindred Healthcare Inc.,Lovwi Street 876,10568485146,66650275,972988562
+Paccar Inc,Buuco Glen 608,10244145459,08559820,995681824
+Cabot Corp,Coledi Turnpike 859,10191344149,34723374,986774652
+Prudential Financial Inc.,Nago Junction 915,20362421517,43812528,4989393
+United Rentals Inc,Fotid River 172,10362188495,64373385,979335669
+TJX Companies Inc,Ziam Grove 803,20748375117,41709386,958726379
+MasTec Inc.,Orug Extension 867,10475918571,86269559,967836828
+Pharmacia Corp,Kaguv Path 773,20275726863,75866859,951741387
+Timken Company,Vejji Park 729,10982572825,00573404,992961123
+Dana Corporation,Ecbez Parkway 178,10949834262,20259365,6418486
+PNM Resources Inc,Kojcaj Drive 328,10523155248,56331231,3184842
+W.W. Grainger Inc,Poah Manor 439,10335236715,47079810,3513334
+Applera Corporation,Jeni Drive 879,10913454172,14339627,6951487
+Pulte Homes Inc,Gikdu Ridge 526,10327827683,23461580,5622535
+American Express Company,Utoci Grove 461,20293831586,42150456,952687349
+Transocean Inc,Urucus Court 243,10247672737,90066382,5499748
+Yum Brands Inc.,Gesa Terrace 354,10881373358,14497941,5557846
+UnitedHealth Group Incorporated,Zerso Extension 062,20341865175,60553103,996472935
+CNF Inc.,Zuto View 901,10858565322,82489027,6182676
+Newell Rubbermaid Inc,Ujkit Trail 098,20391663745,59970022,4445818
+Darden Restaurants Inc.,Mekaf Way 195,10248769496,35339748,5944126
+Providian Financial Corp.,Puaha Lane 869,20256158462,77478938,963383793
+Tyson Foods Inc,Subbub Manor 990,20987462765,23098472,975834716
+Fifth Third Bancorp,Awibot Grove 786,10313592196,97814560,2935395
+Calpine Corp.,Fijdot Street 367,20625726154,30965292,2587775
+MPS Group Inc.,Ejcem Park 506,20261922991,72709352,937767186
+America West Holdings Corporation,Jebcod Way 132,10657546123,22514635,5665648
+"Arch Coal, Inc.",Modwac Center 358,20181773428,33780107,2694374
+Novellus Systems Inc,Peke Mill 913,20718788714,31883902,6677947
+Equitable Resources Inc.,Hejo Square 933,10679193733,94212944,3333381
+Pepsi Bottling Group Inc.,Zukleb Path 283,10196946449,83122118,947241552
+"Peter Kiewit Sons', Inc.",Zalub Grove 560,20252892752,71560779,989884734
+Safeco Corp,Diav Glen 546,10318868638,68184498,5739983
+Michaels Stores Inc.,Sapde Court 430,20234313959,90132893,962539219
+Mohawk Industries Inc.,Datobo Ridge 459,20641222732,68799845,3186469
+Tenneco Automotive Inc.,Pewoz Mill 607,10883346173,37027383,4858731
+Ace Hardware Corporation,Anbun Square 777,10953595534,45976249,2523285
+Praxair Inc,Zudi Highway 924,10752314965,99256334,913596166
+National Semiconductor Corporation,Jeze Lane 386,20437914938,48484186,4668529
+Tower Automotive Inc.,Zitmic Manor 595,20311553996,33214214,925527665
+Tektronix Inc,Tehof Path 040,10976159556,68952113,2132241
+Burlington Northern Santa Fe Corporation,Fopre Heights 585,20831739873,36861184,918618816
+Great Lakes Chemical Corporation,Gegnil Grove 149,20277867734,93110636,4811788
+Avery Dennison Corporation,Deif Point 988,20519522745,93767019,2251669
+Lockheed Martin Corporation,Vuto Drive 727,20576937159,11324866,955893636
+Ceridian Corp.,Bofosa Avenue 641,10794845142,78766659,994611794
+Cisco Systems Inc.,Kazrov Parkway 104,20298673774,53996653,948919775
+Teradyne Inc,Ebgaz Pike 205,10328812818,71375462,2576713
+Owens & Minor Inc.,Wofir Way 310,10615915884,26061495,957622798
+Textron Inc,Mighis Pass 335,20499461952,33653965,973152536
+Murphy Oil Corporation,Ulopo Circle 408,20145467565,30512992,5185417
+Charter One Financial Inc.,Zepet Turnpike 255,20358429415,34890993,983473763
+Calpine Corp.,Nadoze Point 307,10459716293,70079562,2824798
+Lennar Corporation,Inead Trail 220,10496818789,41273547,988871386
+CMS Energy Corp.,Sicu Way 863,20247374788,93034139,917412339
+Stilwell Financial Inc,Wiebi Mill 920,20365624416,56450989,927162221
+Kennametal Inc.,Centaz Street 564,20435964383,85475379,5164877
+Boston Scientific Corporation,Sugja Glen 000,10521295686,67507119,982237437
+MGM Mirage,Upla Extension 809,10664115632,12562275,5799281
+Sun Microsystems Inc.,Etozu Loop 806,20751283893,37684580,2361566
+Werner Enterprises Inc,Jozvi Road 272,10863823547,17768994,939978137
+MGM Mirage,Ovjig Heights 796,10626158272,86486602,2412251
+"Burlington Industries, Inc.",Lazda Pike 626,20779998333,17783333,964597447
+L-3 Communications Holdings Inc.,Iwlo Park 595,20128458777,50777453,5759254
+Sun Healthcare Group Inc.,Jowo Park 374,20772572292,40167198,4591797
+Household International Corp.,Caghaj Street 078,10214347243,26709627,3956158
+Potlatch Corp,Ikoha Plaza 409,10787411616,88013224,5785523
+Echostar Communications Corporation,Nujo Place 641,10842236885,61128708,3425693
+Hughes Supply Inc.,Comzi Glen 172,10569625962,17143401,976423263
+WGL Holdings Inc,Tuvni Key 960,10985829183,84448920,962478673
+Silicon Graphics Inc,Jole Extension 108,20437632661,62869151,2193328
+General Dynamics Corporation,Meeh Path 643,10245477283,36736368,6754314
+"Barnes & Noble, Inc.",Boar Road 621,20733269775,07569049,6888717
+Diebold Incorporated,Efpe Point 345,20658697127,57626690,995418217
+Graybar Electric Company Inc.,Rogop Parkway 570,10142863884,94453387,978452244
+Bed Bath & Beyond Inc.,Zoviho View 431,20674431184,01391394,971171193
+Merrill Lynch & Co. Inc.,Hipa Turnpike 154,10958622961,18580046,2714196
+Rockwell Automation Inc,Laigo Drive 579,20163711972,05719660,3845852
+Comverse Technology Inc.,Honak Court 732,20774688946,02777034,3682882
+Parker Hannifin Corp.,Anpi Mill 183,10565446222,32977587,913259254
+MBNA Corporation,Ofura Boulevard 569,10776795854,55556011,6839425
+Cintas Corp.,Gucke Extension 328,10532128497,50913135,2569746
+Perot Systems Corp,Avte Highway 163,20864471243,00030625,965928347
+National Oilwell Inc,Vimruz River 804,20535294265,72334820,922481843
+"Armstrong Holdings, Inc.",Doid Glen 772,10651689262,30337664,3382695
+Ryder System Inc,Otoza Trail 198,20131479297,91548861,921867641
+"Brinker International, Inc.",Mensip Junction 345,20889165296,16322764,928378158
+Pioneer-Standard Electronics Inc.,Keipo Path 473,10613134459,30561846,968378432
+Gentek Inc.,Lekot Center 438,10657171448,05986408,983295815
+UGI Corporation,Tajuh Boulevard 066,20848867236,50449578,932253963
+"Analog Devices, Inc.",Imzut Loop 763,10197125576,24351002,6364579
+Dell Computer Corporation,Hinfiz Place 001,20287783966,84514978,921369458
+Deere & Company,Newe Highway 274,20817632176,52525842,954127399
+"Barnes & Noble, Inc.",Wiligu Terrace 483,10736396824,27644559,4344693
+Xcel Energy Inc,Ugibic Manor 603,10371567913,11970177,975299829
+Avery Dennison Corporation,Bacuf Center 027,10775271712,69283250,3654231
+Qualcomm Inc,Huje Heights 363,20115161474,21491350,945638288
+Delphi Corp.,Ocgun Drive 011,10188716949,79635437,6629982
+Weatherford International Inc,Weru Highway 075,20965194252,28752538,951389296
+Norfolk Southern Corporation,Lafon Path 089,10762844958,93084426,6955551
+Emerson Electric Co.,Makled Trail 995,10435352994,27245218,924733436
+Unisys Corporation,Geab View 486,10984354668,20109606,964746462
+AMC Entertainment Inc.,Matwef Grove 600,20476312575,17379270,957528156
+Kerr-McGee Corporation,Erzi Extension 503,10989389325,99108098,6796675
+La-Z-Boy Inc.,Zafaba Drive 133,10815316593,58050906,988154699
+WorldCom Inc,Jujiha Road 837,10213419444,96956738,6512753
+US Oncology Inc,Tale Center 250,20591355345,73890948,2931529
+Gap Inc.,Suzog Point 045,20385759586,32466207,915533543
+Fleetwood Enterprises Inc.,Figu Boulevard 326,10141328815,39274909,922513857
+Collins & Aikman Corp.,Luhbuk River 176,10989263271,32669835,2255984
+Wyndham International Inc,Uzujuk Key 863,20837523445,33748846,986167958
+Maxxam Inc.,Nikkac Boulevard 397,10529236871,44564565,916431318
+Provident Financial Group,Makjib Terrace 486,20279662639,97951102,4473996
+Delphi Corp.,Nevom Heights 820,10615137266,33872149,3129589
+The McGraw-Hill Companies Inc.,Redeg Court 961,20535471635,10302629,5646497
+PeopleSoft Inc,Baaha Lane 972,10377246662,92552376,972839319
+"Brown Shoe Company, Inc.",Iserip Court 181,10239742175,07779131,941893972
+Ashland Inc.,Ezha Grove 795,10333536736,98668316,937815765
+Sunoco Inc.,Fikof Place 794,10788833392,03921233,915589257
+Metaldyne Corporation,Vuzka Way 534,20956119594,14374209,5924895
+PepsiCo Inc.,Wuabu Extension 422,20556458394,67747188,996336429
+Ruddick Corp,Vazav River 530,10993798143,27864155,975666661
+Chubb Corp,Tudko Plaza 212,10772558246,35531927,2775967
+Polaris Industries Inc.,Nuebo Center 046,20353716448,04227288,3867298
+Hilton Hotels Corp.,Hesbek Pike 022,20168459122,26738851,923128973
+Kelly Services Inc.,Ogeru Circle 679,10773153614,54258774,2112391
+Ecolab Inc.,Pette Way 069,10462295863,15510616,985923561
+Burlington Resources Inc.,Tiace Way 304,10172282463,60317245,2663654
+Pharmacia Corp,Bisit Grove 903,10855348255,70413261,961912554
+The Bear Stearns Companies Inc.,Fetiwe Court 096,20194238133,45559700,967478347
+GATX Corporation,Comkez Key 854,10878942433,34369307,927946429
+WPS Resources Corporation,Tafwi Court 283,20196922251,00185742,937839574
+Bethlehem Steel Corporation,Gahek Boulevard 704,20316532477,54395133,3365917
+National Fuel Gas Company,Beltal Road 966,10162664945,60449335,935321274
+Alberto-Culver Company,Ivuwi Manor 007,20582331362,59344485,6573982
+Fluor Corp,Hovbuv Road 145,20376959774,67741305,955817955
+Bed Bath & Beyond Inc.,Etha Glen 880,20325311964,54998198,3429412
+Torchmark Corporation,Uhbo Grove 461,10541454866,21637365,2846527
+Noble Energy Inc,Hejdib Boulevard 895,10158781951,03120547,971681585
+Publix Super Markets Inc.,Mocsuh View 463,20779248754,08990525,3558612
+NTL Incorporated,Cudil Pike 257,10244789133,81809067,2521651
+Intuit Inc.,Sizwur Pike 142,10636195792,17991968,4238483
+PolyOne Corp,Jaha Pass 213,20494986338,05358746,979989843
+Hibernia Corp.,Diof Loop 327,10596971735,57976977,6772951
+Hub Group Inc.,Aweji Park 975,20241141499,36157388,957691824
+Georgia-Pacific Corporation,Loklat Pike 602,20862485315,98870401,959186239
+"Borders Group, Inc.",Tosfaf Highway 466,10591527985,16968368,3157881
+Community Health Systems Inc.,Rocuni Grove 427,20674235885,81878761,971149586
+Science Applications Intl. Inc.,Nihe Path 461,10762541643,17865149,976362975
+Metris Companies Inc,Marvuh Circle 413,20479771614,75681320,5583513
+Office Depot Inc.,Nieh Plaza 946,20253898283,04935407,949813748
+Bell Microproducts Inc.,Binbek Parkway 832,20929445577,80878577,6914374
+NCR Corporation,Fospev Court 340,20862725854,44649616,4923566
+Georgia Gulf Corporation,Kesda Junction 396,10977514315,59348998,969258552
+The Clorox Co.,Vorap Road 366,10521171232,93064017,3417482
+Williams Sonoma Inc,Zuvuj Place 885,20745764311,05318485,4159642
+"ALLETE, Inc.",Cubuf View 974,10744886663,97946701,935372361
+Radio Shack Corporation,Mianu Park 866,20699873662,05242551,948284372
+Atmos Energy Corporation,Hakuk Loop 087,10656199796,19433102,988551145
+"Dollar Tree Stores, Inc.",Terad Place 699,10848626113,96363930,2245554
+Flowserv Corp,Jibnu Mill 589,20495844472,43595992,3538355
+"Brinker International, Inc.",Evjo Grove 988,20741765918,03576588,955945719
+Murphy Oil Corporation,Ajilo Court 905,10349335325,75458603,3756471
+La-Z-Boy Inc.,Bessij Drive 178,10323775291,45893916,959712689
+Synovus Financial Corp.,Irewe Extension 190,20568697778,48750155,5349443
+ACT Manufacturing Inc.,Gisi Key 704,10536846312,35530915,5818694
+Merrill Lynch & Co. Inc.,Ebnim Path 702,10783979797,20036767,921859212
+Apartment Investment and Management Company,Wates Park 367,10828835555,27833162,4488268
+Novellus Systems Inc,Lirtaf River 968,20347363538,31574919,4616614
+Champion Enterprises Inc.,Etezuj Lane 520,10576229954,75445451,4342185
+Fleming Companies Inc.,Uzfug Ridge 279,10131143777,99577484,946536213
+Alliant Energy Corporation,Nitod Place 434,20458543262,20554892,4339149
+Ross Stores Inc,Tutbil Heights 736,20657683641,23777632,945398377
+MetLife Inc.,Agad Road 269,10667741233,23576760,5332893
+"D&K Healthcare Resources, Inc.",Ludvuw Parkway 472,10121672824,03849667,957115487
+National Oilwell Inc,Foono Highway 106,20586828192,19231313,935324477
+IMC Global Inc.,Ruzos Court 144,20398398593,00563457,4583532
+"Ames Department Stores, Inc.",Jojiru Parkway 942,10236978819,11125200,3929643
+Timken Company,Refdam Parkway 990,10784484915,02015399,928889299
+Henry Schein Inc.,Kihug Terrace 059,10996847956,77175081,947691351
+Questar Corp,Igecu Way 202,20668299251,90901755,923863819
+Sanmina-SCI Inc,Vevap River 323,20585569354,73861772,982951168
+AmSouth Bancorp.,Ovebev Path 222,20174358771,44678531,954731696
+AMERCO,Jaagu Manor 344,20117827923,59190892,951949781
+Sovereign Bancorp Inc.,Hifruv Ridge 052,20858189225,11799896,6475361
+Kelly Services Inc.,Ahuhi Trail 272,10436756611,75540597,4826138
+Oracle Corp,Itibi Point 673,10664328142,45272936,927475991
+Whole Foods Market Inc,Boav Point 842,20592144886,42915360,4847778
+Microsoft Corporation,Upwo Grove 271,10723174832,66877186,914419639
+Ingles Market Inc,Pilik Lane 595,10751738151,76047291,994765341
+Spartan Stores Inc,Telo Heights 718,10385782433,87644955,4795619
+H.J. Heinz Company,Souje River 030,10283787283,40390559,967123722
+Walgreen Co,Wori River 863,10141161571,59452825,5842774
+DQE Inc.,Gohip Court 128,20181589875,79417131,928171198
+Dun & Bradstreet Inc.,Ogtad Turnpike 418,10354594737,87092203,4191222
+Adelphia Communications Corporation,Hogok Way 650,10734837289,69480216,4334726
+Wisconsin Energy Corporation,Biliw River 399,20497987718,86566838,6845866
+State Street Corp.,Tafoku Manor 912,20273792182,96339218,959961881
+"Earthlink, Inc.",Hikni View 500,10782144251,24057171,938442879
+Burlington Resources Inc.,Elpo Key 136,10535176637,09591241,4322544
+"AutoZone, Inc.",Fosme Boulevard 771,10742362887,92760179,988452538
+Jabil Circuit Inc.,Risab Plaza 721,10772286196,04161813,6931357
+Toll Brothers Inc,Opewoz Plaza 633,20444324565,44861457,2457173
+Dillard's Inc.,Tunhel Park 414,20492356377,81948831,2532489
+AFLAC Incorporated,Sodkas Grove 845,20436242421,16579575,953248766
+Sierra Health Services Inc,Gulke Circle 369,10733196745,09368354,5184538
+Kroger Co.,Dozos Pass 290,10265431133,20769480,969195636
+Fortune Brands Inc.,Vobob Key 089,10768374841,59265623,923542632
+Valero Energy Corporation,Fohu Point 426,10288796871,66496857,938243677
+Nordstrom Inc,Hovliz Manor 373,10654317548,36350941,977881689
+The Neiman Marcus Group Inc.,Gecbas Avenue 634,10165582645,78564706,6336925
+Collins & Aikman Corp.,Ledir Turnpike 871,10283629144,81701666,2857339
+SCI Systems Onc.,Maif Parkway 665,10469955719,21259946,927437365
+Trinity Industries Inc,Nangub Glen 785,20943286873,69488592,972127843
+Pactiv Corp,Gedsil Square 455,20838394181,36659093,986785137
+Performance Food Group Co.,Jezfi Junction 468,20237686783,81710505,992761856
+TravelCenters of America Inc.,Butruv Glen 824,20236534323,32130771,982177269
+Cendant Corp,Fabo Street 143,10341554927,97514741,925963329
+Cisco Systems Inc.,Tiena Path 664,20776278132,00499975,911554759
+Peoples Energy Corp.,Cakon Road 922,10238192612,69655488,928398749
+PETsMART Inc,Zoju River 468,10259882447,04920233,2117295
+PolyOne Corp,Rekac Circle 402,10783659786,83962173,976441741
+Unocal Corporation,Ezaduz Drive 977,20424663611,67411720,928673176
+MDU Resources Group Inc.,Nuwon Turnpike 676,20972799672,56482198,921536932
+Hartford Financial Services Group Inc.,Dazat Pass 511,20489251597,08140001,5127769
+Countrywide Credit Industries Inc.,Cero Grove 513,20787663771,19392327,3756935
+Granite Construction Incorporated,Refug Drive 763,10561365371,13475152,915572232
+Family Dollar Stores Inc.,Jacoh Heights 420,10183514229,20321749,4863978
+Carlisle Cos. Inc.,Umasod Circle 229,20853339148,01744577,4989921
+H&R Block Inc.,Juzej Plaza 184,20154122524,22751691,934593311
+Reebok International Ltd.,Uchag Manor 521,10712241111,06515930,942852855
+Avery Dennison Corporation,Woiwe Lane 802,10319511311,29701843,5996751
+Bed Bath & Beyond Inc.,Advu Turnpike 061,10729783362,13630881,5133382
+GenCorp Inc.,Ipkuz Square 926,20148287658,23811537,918863481
+Lincoln National Corporation,Esabe Center 314,20561347756,69765753,4734672
+Wal-Mart Stores Inc,Jevmi Trail 514,20323211352,62256788,911172956
+L-3 Communications Holdings Inc.,Nigah Pass 860,20117847842,41578759,2232813
+Potomac Electric Power Co.,Lara Extension 998,10755253797,63645861,941369468
+Western Digital Inc,Zifiw Way 225,20448319978,58770611,5726695
+UGI Corporation,Caheg Lane 701,10993919453,02201900,2112645
+The Boeing Company,Folda Pike 551,20784657986,93129903,934177128
+Mellon Financial Corporation,Caka Plaza 770,20446278956,02310807,4124522
+Hillenbrand Industries Inc.,Zefi Way 744,20749263217,98288550,923591139
+Popular Inc,Nacib Highway 774,10978314598,10756270,3733413
+"Becton, Dickinson and Company",Gabi Glen 551,20715424527,26733270,967461966
+Principal Financial Group Inc.,Wugo Court 675,20774645823,77931477,928326163
+NCR Corporation,Huso Pike 173,10832425473,30489508,993499514
+American Express Company,Emuvu Lane 095,10512337929,18761667,2998358
+Coca-Cola Enterprises Inc.,Fokow Center 723,20139372839,77335722,4835424
+Johnson & Johnson,Ewov Junction 399,20738521561,99856101,925998529
+"AdvancePCS, Inc.",Bepe Junction 436,20917677898,51398814,6446364
+Union Planters Corp,Ipuefe Court 463,10228711867,61289855,4372484
+WestPoint Stevens Inc,Gekve Pass 928,10688512247,47490583,2289515
+FMC Corp,Pajenu Way 228,10249979293,27694415,3698245
+Southern Union Company,Bahe Plaza 072,10138515637,32602485,933389918
+Lands' End Inc.,Sopo Lane 737,20135947878,77045622,976878555
+USA Interactive,Dehiz Way 252,20317956861,39475032,5236197
+Bausch & Lomb Incorporated,Fekvuj Center 075,10178534731,55982742,952684162
+Collins & Aikman Corp.,Giweh Circle 571,10589164698,69342200,916245899
+"E*Trade Group, Inc.",Zikari Pike 945,10417352661,58628854,3265139
+Lennar Corporation,Adabo Highway 633,10363548311,99664559,3492417
+ServiceMaster Co,Kuedu Boulevard 525,20354256138,32737958,939443294
+Veritas Software Corporation,Sunka Glen 507,10578239577,76239539,914179879
+Dillard's Inc.,Ofijom Terrace 984,20665392516,22971023,5828755
+The McGraw-Hill Companies Inc.,Vifi Ridge 984,20438877535,62885522,987963191
+Adelphia Communications Corporation,Jiowi Extension 020,20754453538,98426020,965578668
+Sears Roebuck & Co,Joha Road 359,20449973169,47774458,912234612
+Valspar Corporation,Enrur Pass 037,10113992919,69279029,991554443
+Rock-Tenn Co,Neid River 900,20611341514,62733847,6889712
+First Tennessee National Corp.,Abiuji Circle 540,10634913289,96090441,4544941
+ConAgra Foods Inc.,Ogta Avenue 055,20511257624,49528224,995981994
+Herman Miller Inc.,Hera Plaza 236,10547578543,96275849,3674416
+Bausch & Lomb Incorporated,Rakha Court 159,10917743367,79152574,2918495
+"Applied Industrial Technologies, Inc.",Epud Terrace 997,20355197262,88362910,6416974
+"Amkor Technology, Inc.",Rebuja Key 625,20234663266,85208188,4893114
+Rohm & Haas Co.,Figo Manor 250,20141266646,72242227,2723493
+IMS Health Inc.,Vuvonu Square 603,20298796729,28154185,3991382
+Rent A Center Inc,Sowvuf Court 632,20176618339,18507198,2861568
+"Best Buy Co., Inc.",Woovu Grove 413,10878951281,98611037,984272439
+Crompton Corp.,Ajfat River 825,10243475897,80137027,4385636
+VF Corporation,Rafo Extension 120,20745987853,23992170,968377118
+Pentair Inc,Owiojo Plaza 574,10955554629,09222932,925659631
+Golden State Bancorp Inc.,Urbu Circle 580,20721424225,11291663,978947991
+Apache Corporation,Delji Center 837,10938456386,83930644,938633339
+AOL Time Warner Inc.,Irlot Road 273,10682671827,81273988,953649227
+"Pep Boys Manny, Moe & Jack",Racu Square 744,20256842693,88943848,998219346
+Stewart Information Services Corp,Kewcub Road 835,20668628669,36293208,3261822
+"AdvancePCS, Inc.",Ligsiw Terrace 189,10124533853,06247672,2535454
+"Best Buy Co., Inc.",Wulum Junction 916,20743135736,93508859,945868931
+The May Department Stores Company,Elenij River 399,20567346142,74468281,974363551
+Unified Western Grocers Inc,Umoso Pike 501,10946292724,95363426,945459279
+NiSource Inc,Tesso Square 836,10616721481,96270326,986572844
+Temple-Inland Inc,Ajtev Place 002,10551671562,63591769,5918424
+Cooper Cameron Corp.,Iweza Center 025,10173787841,26159229,951214788
+Saks Inc,Forwer River 678,20879276751,39653755,2293836
+Anadarko Petroleum Corporation,Revsu Place 577,20722594722,71844137,941644619
+Pinnacle West Capital Corp,Roena Lane 025,10457629942,17767234,2296988
+Michaels Stores Inc.,Mogti Heights 965,10991372513,38569233,5758888
+Safeco Corp,Jebu Turnpike 907,10241912948,84372610,956422726
+Regis Corporation,Piswaf Street 318,20634523899,90969347,4328847
+Outback Steakhouse Inc.,Timu Road 396,10877383845,24716980,5959337
+United Defense Industries Inc.,Ropalu Loop 385,20268967685,29939622,927788132
