@@ -198,7 +198,7 @@ CREATE INDEX Tienei_producto_id ON Tienei (producto_id);
 CREATE INDEX Tienei_tienda_id ON Tienei (tienda_id);
 CREATE INDEX Tienei_cantidad ON Tienei (cantidad);
 CREATE INDEX Sofai_producto_id ON Sofai (producto_id);
-CREATE INDEX Sofai_tipo ON Sofai (tipo);
+CREATE INDEX Sofai_tipo ON Sofai (modelo);
 CREATE INDEX PersonaNaturali_dni ON PersonaNaturali (dni);
 CREATE INDEX Tiendai_id ON Tiendai (id);
 CREATE INDEX Tiendai_direccion ON Tiendai (direccion);
