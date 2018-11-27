@@ -1,4 +1,9 @@
 * El producto que más se ha vendido en el 2017
+
+select producto, count(producto) where(
+	
+)
+
 * El cliente que más veces ha comprado en el 2015
 * La tienda que más ha vendido desde el 2010
 * El cliente que ha comprado por un mayor monto
