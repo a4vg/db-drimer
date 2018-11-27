@@ -4,12 +4,13 @@ import random
 import csv
 
 num_clientes = 1000
+no_recibo = 1
 
+write_to = 'recibos_{}.csv'.format(num_clientes)
 
 size = int(num_clientes *3) # se generan num_clientes*3 pedidos
-with open('dump.csv', 'w', newline='') as csvfile:
+with open("dump.csv", 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    writer.writerow(["fecha"])
 
     counter = 0
 
@@ -32,4 +33,24 @@ with open('dump.csv', 'w', newline='') as csvfile:
         random_date += start
         writer.writerow([random_date])
         if not counter%1000: print(counter)
+    print("Dates generated! :)")
+
+# Ordenar fechas, añadir header y numero de recibo
+with open("dump.csv", 'r', newline='') as unorderedfile:
+    with open("dates_rec_" + write_to, 'w', newline='') as orderedfile:
+        reader = csv.reader(unorderedfile, delimiter=',')
+        writer = csv.writer(orderedfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+        writer.writerow(["fecha", "no_recibo"])
+        
+        lines = unorderedfile.readlines()
+        lines.sort()
+        for i in range(len(lines)):
+            no_recibo_str = str(no_recibo).zfill(10)
+            lines[i] = lines[i].replace("\r\n", "")+", {}\r\n".format(no_recibo_str)
+            no_recibo+=1
+
+        orderedfile.writelines(lines)
+
+        print("Sort done! :)")
 
