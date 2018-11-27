@@ -1,11 +1,11 @@
-* El producto que más se ha vendido en el 2017 --indexar producto_id
+* El producto que más se ha vendido en el 2017 --indexar producto_id y fecha
 
 select producto, count(producto) where(
 	
 )
 
-* Las empresas que hayan comprado mas de 10 productos --indexar
+* Las empresas que hayan comprado mas de 10 productos --indexar empresa_ruc
 * El cliente que haya comprado un producto de cada tipo (almohada, colchon, sofa) --indexar 
 * La tienda que más ha vendido desde el 2010 y su direccion -- indexar tienda_id y tienda_direccion
 * El cliente que ha comprado por un mayor monto -- indexar cliente_dni y cliente_nombre
-* El año en el que los ingresos fueron mayores respecto a los demás --indexar
+* El año en el que los ingresos fueron mayores respecto a los demás --indexar producto_precio
