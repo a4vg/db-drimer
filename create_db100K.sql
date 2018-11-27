@@ -22,7 +22,6 @@ CREATE TABLE Tiene(
 
 CREATE TABLE Mueble(
   producto_id varchar(10),
-  color varchar(255),
   tipo varchar(255),
   PRIMARY KEY (producto_id),
   FOREIGN KEY (producto_id) REFERENCES Producto
@@ -36,12 +35,6 @@ CREATE TABLE PersonaNatural (
 
 CREATE TABLE Tienda (
   id int,
-  modelo varchar(255),
-  precio numeric(2),
-  material varchar(255),
-  detalle varchar(500),
-  relleno varchar(255),
-  plazas varchar(15),
   direccion varchar(500),
   PRIMARY KEY (id)
 );
@@ -121,7 +114,6 @@ CREATE TABLE Tienei(
 
 CREATE TABLE Mueblei(
   producto_id varchar(10),
-  color varchar(255),
   tipo varchar(255),
   PRIMARY KEY (producto_id),
   FOREIGN KEY (producto_id) REFERENCES Producto
@@ -135,12 +127,6 @@ CREATE TABLE PersonaNaturali (
 
 CREATE TABLE Tiendai (
   id int,
-  modelo varchar(255),
-  precio numeric(2),
-  material varchar(255),
-  detalle varchar(500),
-  relleno varchar(255),
-  plazas varchar(15),
   direccion varchar(500),
   PRIMARY KEY (id)
 );
@@ -199,3 +185,40 @@ CREATE TABLE Catalogoi (
   FOREIGN KEY (producto_id) REFERENCES Producto,
   FOREIGN KEY (tienda_id) REFERENCES Tienda
 );
+
+
+--PRIMERO POBLAR DATOS
+
+CREATE INDEX Colchoni_producto_id ON Colchoni (producto_id);
+CREATE INDEX Colchoni_relleno ON Colchoni (relleno);
+CREATE INDEX Colchoni_plazas ON Colchoni (plazas);
+CREATE INDEX Tienei_no_recibo ON Tienei (no_recibo);
+CREATE INDEX Tienei_producto_id ON Tienei (producto_id);
+CREATE INDEX Tienei_tienda_id ON Tienei (tienda_id);
+CREATE INDEX Mueblei_producto_id ON Mueblei (producto_id);
+CREATE INDEX Mueblei_tipo ON Mueblei (tipo);
+CREATE INDEX PersonaNaturali_dni ON PersonaNaturali (dni);
+CREATE INDEX Tiendai_id ON Tiendai (id);
+CREATE INDEX Tiendai_direccion ON Tiendai (direccion);
+CREATE INDEX Pedidoi_fecha ON Pedidoi (fecha);
+CREATE INDEX Pedidoi_no_recibo ON Pedidoi (no_recibo);
+CREATE INDEX Pedidoi_cliente_dni ON Pedidoi (cliente_dni);
+CREATE INDEX Almohadai_producto_id ON Almohadai (producto_id);
+CREATE INDEX Almohadai_relleno ON Almohadai (relleno);
+CREATE INDEX Representantei_dni ON Representantei (dni);
+CREATE INDEX Clientei_dni ON Clientei (dni);
+CREATE INDEX Clientei_nombre ON Clientei (nombre);
+CREATE INDEX Clientei_apellido ON Clientei (apellido);
+CREATE INDEX Clientei_telefono ON Clientei (telefono);
+CREATE INDEX Clientei_direccion ON Clientei (direccion);
+CREATE INDEX Productoi_id ON Productoi (id);
+CREATE INDEX Productoi_precio ON Productoi (precio);
+CREATE INDEX Productoi_detalle ON Productoi (detalle);
+CREATE INDEX Empresai_ruc ON Empresai (ruc);
+CREATE INDEX Empresai_telefono ON Empresai (telefono);
+CREATE INDEX Empresai_direccion ON Empresai (direccion);
+CREATE INDEX Empresai_nombre ON Empresai (nombre);
+CREATE INDEX Empresai_cliente_dni ON Empresai (cliente_dni);
+CREATE INDEX Catalogoi_producto_id ON Catalogoi (producto_id);
+CREATE INDEX Catalogoi_tienda_id ON Catalogoi (tienda_id);
+CREATE INDEX Catalogoi_stock ON Catalogoi (stock);
