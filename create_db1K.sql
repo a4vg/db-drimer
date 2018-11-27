@@ -221,3 +221,16 @@ CREATE INDEX Empresai_cliente_dni ON Empresai (cliente_dni);
 CREATE INDEX Catalogoi_producto_id ON Catalogoi (producto_id);
 CREATE INDEX Catalogoi_tienda_id ON Catalogoi (tienda_id);
 CREATE INDEX Catalogoi_stock ON Catalogoi (stock);
+
+\d+ Colchoni
+\d+ Tienei
+\d+ Mueblei
+\d+ PersonaNaturali
+\d+ Tiendai
+\d+ Pedidoi
+\d+ Almohadai
+\d+ Representantei
+\d+ Clientei
+\d+ Productoi
+\d+ Empresai
+\d+ Catalogoi
