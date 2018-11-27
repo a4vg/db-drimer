@@ -3,7 +3,7 @@ from datetime import date, timedelta
 import random
 import csv
 
-num_clientes = 1000
+num_clientes = 100000
 no_recibo = 1
 
 write_to = 'recibos_{}.csv'.format(num_clientes)
@@ -47,7 +47,7 @@ with open("dump.csv", 'r', newline='') as unorderedfile:
         lines.sort()
         for i in range(len(lines)):
             no_recibo_str = str(no_recibo).zfill(10)
-            lines[i] = lines[i].replace("\r\n", "")+", {}\r\n".format(no_recibo_str)
+            lines[i] = lines[i].replace("\r\n", "")+",{}\r\n".format(no_recibo_str)
             no_recibo+=1
 
         orderedfile.writelines(lines)
