@@ -39,14 +39,14 @@ CREATE TABLE Tienda (
   relleno varchar(255),
   plazas varchar(15),
   direccion varchar(500),
-  PRIMARY KEY ("id")
+  PRIMARY KEY (id)
 );
 
 CREATE TABLE Pedido (
   fecha date,
   no_recibo int,
   cliente_dni varchar (8),
-  PRIMARY KEY ("no_recibo")
+  PRIMARY KEY (no_recibo)
 );
 
 CREATE TABLE Almohada (
@@ -56,7 +56,7 @@ CREATE TABLE Almohada (
   FOREIGN KEY (producto_id) REFERENCES Producto
 );
 
-CREATE TABLE PersonaJuridica (
+CREATE TABLE Representante (
   dni varchar (8),
   PRIMARY KEY (dni),
   FOREIGN KEY (dni) REFERENCES Cliente
@@ -68,16 +68,14 @@ CREATE TABLE Cliente (
   apellido varchar (255),
   telefono int,
   direccion varchar (500),
-  PRIMARY KEY ("dni")
+  PRIMARY KEY (dni)
 );
 
 CREATE TABLE Producto (
   id varchar(10),
-  modelo varchar(255),
   precio numeric(2),
-  material varchar(255),
   detalle varchar(500),
-  PRIMARY KEY ("id")
+  PRIMARY KEY (id)
 );
 
 CREATE TABLE Empresa (
@@ -85,10 +83,9 @@ CREATE TABLE Empresa (
   telefono varchar (9),
   direccion varchar (500),
   nombre varchar (255),
-  representante_dni varchar (8),
+  cliente_dni varchar (8),
   PRIMARY KEY (ruc, cliente_dni),
-  FOREIGN KEY (representante_dni) REFERENCES Cliente
-  -- Cambie cliente_dni por representante_dni
+  FOREIGN KEY (cliente_dni) REFERENCES Cliente
 );
 
 CREATE TABLE Catalogo (
