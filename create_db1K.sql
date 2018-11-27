@@ -1,3 +1,7 @@
+CREATE SCHEMA drimer1K;
+
+SET search_path to drimer1K;
+
 CREATE TABLE Colchon (
   producto_id varchar(10),
   relleno varchar(255),
