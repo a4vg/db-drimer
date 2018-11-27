@@ -5,7 +5,7 @@ SET search_path to drimer10K;
 CREATE TABLE Producto (
   id varchar(10),
   detalle varchar(500),
-  precio numeric(2),
+  precio int,
   PRIMARY KEY (id)
 );
 
@@ -198,7 +198,7 @@ CREATE INDEX Tienei_producto_id ON Tienei (producto_id);
 CREATE INDEX Tienei_tienda_id ON Tienei (tienda_id);
 CREATE INDEX Tienei_cantidad ON Tienei (cantidad);
 CREATE INDEX Sofai_producto_id ON Sofai (producto_id);
-CREATE INDEX Sofai_tipo ON Sofai (modelo);
+CREATE INDEX Sofai_modelo ON Sofai (modelo);
 CREATE INDEX PersonaNaturali_dni ON PersonaNaturali (dni);
 CREATE INDEX Tiendai_id ON Tiendai (id);
 CREATE INDEX Tiendai_direccion ON Tiendai (direccion);
