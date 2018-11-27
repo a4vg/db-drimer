@@ -2,62 +2,18 @@ CREATE SCHEMA drimer10K;
 
 SET search_path to drimer10K;
 
-CREATE TABLE Colchon (
-  producto_id varchar(10),
-  relleno varchar(255),
-  plazas varchar(15),
-  PRIMARY KEY (producto_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto
-);
-
-CREATE TABLE Tiene(
-  no_recibo int,
-  producto_id varchar (10),
-  tienda_id int,
-  cantidad int,
-  PRIMARY KEY (no_recibo, producto_id, tienda_id),
-  FOREIGN KEY (no_recibo) REFERENCES Pedido,
-  FOREIGN KEY (producto_id) REFERENCES Producto,
-  FOREIGN KEY (tienda_id) REFERENCES Tienda
-);
-
-CREATE TABLE Sofa(
-  producto_id varchar(10),
-  modelo varchar(255),
-  PRIMARY KEY (producto_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto
-);
-
-CREATE TABLE PersonaNatural (
-  dni varchar (8),
-  PRIMARY KEY (dni),
-  FOREIGN KEY (dni) REFERENCES Cliente
-);
-
-CREATE TABLE Tienda (
-  id int,
-  direccion varchar(500),
+CREATE TABLE Producto (
+  id varchar(10),
+  detalle varchar(500),
+  precio numeric(2),
   PRIMARY KEY (id)
 );
 
 CREATE TABLE Pedido (
   fecha date,
-  no_recibo int,
+  no_recibo varchar(10),
   cliente_dni varchar (8),
   PRIMARY KEY (no_recibo)
-);
-
-CREATE TABLE Almohada (
-  producto_id varchar(10),
-  relleno varchar(255),
-  PRIMARY KEY (producto_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto
-);
-
-CREATE TABLE Representante (
-  dni varchar (8),
-  PRIMARY KEY (dni),
-  FOREIGN KEY (dni) REFERENCES Cliente
 );
 
 CREATE TABLE Cliente (
@@ -69,11 +25,55 @@ CREATE TABLE Cliente (
   PRIMARY KEY (dni)
 );
 
-CREATE TABLE Producto (
+CREATE TABLE Tienda (
   id varchar(10),
-  detalle varchar(500),
-  precio numeric(2),
+  direccion varchar(500),
   PRIMARY KEY (id)
+);
+
+CREATE TABLE Colchon (
+  producto_id varchar(10),
+  relleno varchar(255),
+  plazas varchar(15),
+  PRIMARY KEY (producto_id),
+  FOREIGN KEY (producto_id) REFERENCES Producto (id)
+);
+
+CREATE TABLE Tiene(
+  no_recibo varchar(10),
+  producto_id varchar (10),
+  tienda_id varchar(10),
+  cantidad int,
+  PRIMARY KEY (no_recibo, producto_id, tienda_id),
+  FOREIGN KEY (no_recibo) REFERENCES Pedido (no_recibo),
+  FOREIGN KEY (producto_id) REFERENCES Producto (id),
+  FOREIGN KEY (tienda_id) REFERENCES Tienda (id)
+);
+
+CREATE TABLE Sofa(
+  producto_id varchar(10),
+  modelo varchar(255),
+  PRIMARY KEY (producto_id),
+  FOREIGN KEY (producto_id) REFERENCES Producto (id)
+);
+
+CREATE TABLE PersonaNatural (
+  dni varchar (8),
+  PRIMARY KEY (dni),
+  FOREIGN KEY (dni) REFERENCES Cliente (dni)
+);
+
+CREATE TABLE Almohada (
+  producto_id varchar(10),
+  relleno varchar(255),
+  PRIMARY KEY (producto_id),
+  FOREIGN KEY (producto_id) REFERENCES Producto (id)
+);
+
+CREATE TABLE Representante (
+  dni varchar (8),
+  PRIMARY KEY (dni),
+  FOREIGN KEY (dni) REFERENCES Cliente (dni)
 );
 
 CREATE TABLE PersonaJuridica (
@@ -82,75 +82,31 @@ CREATE TABLE PersonaJuridica (
   ruc varchar (11),
   representante_dni varchar (8),
   telefono varchar (9),
-  PRIMARY KEY (ruc, cliente_dni),
-  FOREIGN KEY (cliente_dni) REFERENCES Cliente
+  PRIMARY KEY (ruc, representante_dni),
+  FOREIGN KEY (representante_dni) REFERENCES Cliente (dni)
 );
 
 CREATE TABLE Catalogo (
-  producto_id int,
-  tienda_id int,
+  producto_id varchar(10),
+  tienda_id varchar(10),
   stock int,
   PRIMARY KEY (producto_id, tienda_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto,
-  FOREIGN KEY (tienda_id) REFERENCES Tienda
+  FOREIGN KEY (producto_id) REFERENCES Producto (id),
+  FOREIGN KEY (tienda_id) REFERENCES Tienda (id)
 );
 
-CREATE TABLE Colchoni (
-  producto_id varchar(10),
-  relleno varchar(255),
-  plazas varchar(15),
-  PRIMARY KEY (producto_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto
-);
-
-CREATE TABLE Tienei(
-  no_recibo int,
-  producto_id varchar (10),
-  tienda_id int,
-  cantidad int,
-  PRIMARY KEY (no_recibo, producto_id, tienda_id),
-  FOREIGN KEY (no_recibo) REFERENCES Pedido,
-  FOREIGN KEY (producto_id) REFERENCES Producto,
-  FOREIGN KEY (tienda_id) REFERENCES Tienda
-);
-
-CREATE TABLE Sofai(
-  producto_id varchar(10),
-  modelo varchar(255),
-  PRIMARY KEY (producto_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto
-);
-
-CREATE TABLE PersonaNaturali (
-  dni varchar (8),
-  PRIMARY KEY (dni),
-  FOREIGN KEY (dni) REFERENCES Cliente
-);
-
-CREATE TABLE Tiendai (
-  id int,
-  direccion varchar(500),
+CREATE TABLE Productoi (
+  id varchar(10),
+  detalle varchar(500),
+  precio numeric(2),
   PRIMARY KEY (id)
 );
 
 CREATE TABLE Pedidoi (
   fecha date,
-  no_recibo int,
+  no_recibo varchar(10),
   cliente_dni varchar (8),
   PRIMARY KEY (no_recibo)
-);
-
-CREATE TABLE Almohadai (
-  producto_id varchar(10),
-  relleno varchar(255),
-  PRIMARY KEY (producto_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto
-);
-
-CREATE TABLE Representantei (
-  dni varchar (8),
-  PRIMARY KEY (dni),
-  FOREIGN KEY (dni) REFERENCES Cliente
 );
 
 CREATE TABLE Clientei (
@@ -162,11 +118,55 @@ CREATE TABLE Clientei (
   PRIMARY KEY (dni)
 );
 
-CREATE TABLE Productoi (
+CREATE TABLE Tiendai (
   id varchar(10),
-  detalle varchar(500),
-  precio numeric(2),
+  direccion varchar(500),
   PRIMARY KEY (id)
+);
+
+CREATE TABLE Colchoni (
+  producto_id varchar(10),
+  relleno varchar(255),
+  plazas varchar(15),
+  PRIMARY KEY (producto_id),
+  FOREIGN KEY (producto_id) REFERENCES Productoi (id)
+);
+
+CREATE TABLE Tienei(
+  no_recibo varchar(10),
+  producto_id varchar (10),
+  tienda_id varchar(10),
+  cantidad int,
+  PRIMARY KEY (no_recibo, producto_id, tienda_id),
+  FOREIGN KEY (no_recibo) REFERENCES Pedidoi (no_recibo),
+  FOREIGN KEY (producto_id) REFERENCES Productoi (id),
+  FOREIGN KEY (tienda_id) REFERENCES Tiendai (id)
+);
+
+CREATE TABLE Sofai(
+  producto_id varchar(10),
+  modelo varchar(255),
+  PRIMARY KEY (producto_id),
+  FOREIGN KEY (producto_id) REFERENCES Productoi (id)
+);
+
+CREATE TABLE PersonaNaturali (
+  dni varchar (8),
+  PRIMARY KEY (dni),
+  FOREIGN KEY (dni) REFERENCES Clientei (dni)
+);
+
+CREATE TABLE Almohadai (
+  producto_id varchar(10),
+  relleno varchar(255),
+  PRIMARY KEY (producto_id),
+  FOREIGN KEY (producto_id) REFERENCES Productoi (id)
+);
+
+CREATE TABLE Representantei (
+  dni varchar (8),
+  PRIMARY KEY (dni),
+  FOREIGN KEY (dni) REFERENCES Clientei (dni)
 );
 
 CREATE TABLE PersonaJuridicai (
@@ -175,17 +175,17 @@ CREATE TABLE PersonaJuridicai (
   ruc varchar (11),
   representante_dni varchar (8),
   telefono varchar (9),
-  PRIMARY KEY (ruc, cliente_dni),
-  FOREIGN KEY (cliente_dni) REFERENCES Cliente
+  PRIMARY KEY (ruc, representante_dni),
+  FOREIGN KEY (representante_dni) REFERENCES Clientei (dni)
 );
 
 CREATE TABLE Catalogoi (
-  producto_id int,
-  tienda_id int,
+  producto_id varchar(10),
+  tienda_id varchar(10),
   stock int,
   PRIMARY KEY (producto_id, tienda_id),
-  FOREIGN KEY (producto_id) REFERENCES Producto,
-  FOREIGN KEY (tienda_id) REFERENCES Tienda
+  FOREIGN KEY (producto_id) REFERENCES Productoi (id),
+  FOREIGN KEY (tienda_id) REFERENCES Tiendai (id)
 );
 
 --PRIMERO POBLAR DATOS
