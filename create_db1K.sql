@@ -40,7 +40,7 @@ CREATE TABLE Colchon (
 );
 
 CREATE TABLE Tiene(
-  no_recibo varchar(10),
+  no_recibo varchar(11),
   producto_id varchar (10),
   tienda_id varchar(10),
   cantidad int,
@@ -98,13 +98,13 @@ CREATE TABLE Catalogo (
 CREATE TABLE Productoi (
   id varchar(10),
   detalle varchar(500),
-  precio numeric(2),
+  precio int,
   PRIMARY KEY (id)
 );
 
 CREATE TABLE Pedidoi (
   fecha date,
-  no_recibo varchar(10),
+  no_recibo varchar(11),
   cliente_dni varchar (8),
   PRIMARY KEY (no_recibo)
 );
@@ -133,7 +133,7 @@ CREATE TABLE Colchoni (
 );
 
 CREATE TABLE Tienei(
-  no_recibo varchar(10),
+  no_recibo varchar(11),
   producto_id varchar (10),
   tienda_id varchar(10),
   cantidad int,

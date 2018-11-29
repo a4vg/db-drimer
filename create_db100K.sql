@@ -98,7 +98,7 @@ CREATE TABLE Catalogo (
 CREATE TABLE Productoi (
   id varchar(10),
   detalle varchar(500),
-  precio numeric(2),
+  precio int,
   PRIMARY KEY (id)
 );
 
