@@ -5,7 +5,7 @@ from math import ceil
 import csv
 
 
-num_clientes = 10000
+num_clientes = 100000
 
 num_pedidos = num_clientes*3
 size = num_clientes*4 # se generan num_clientes*4 Tiene
@@ -43,7 +43,7 @@ with open("dump.csv", 'w', newline='') as writefile:
         while (rand_producto_id, int(str_no_recibo)) in previos:
             rand_producto_id = random.choice(tiendas_prod[int(rand_tienda_id-1)])
 
-        previos.add((rand_tienda_id, rand_producto_id, int(str_no_recibo)))
+        previos.add((rand_producto_id, int(str_no_recibo)))
 
         writer.writerow([str_no_recibo, rand_producto_id, rand_tienda_id, rand_cantidad])
 
